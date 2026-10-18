@@ -1,0 +1,30 @@
+# The only file a client edits.
+
+[source]
+# Any table that is reachable as a CSV link works here: a Google Sheet
+# published as CSV, a form-responses sheet, an export from a shop or CRM.
+# For this public demo the source is the USGS feed of earthquakes of
+# magnitude 2.5 and above in the last 24 hours, because it gets real new
+# rows all day long.
+name = "USGS earthquakes M2.5+, last 24 hours"
+url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.csv"
+
+# The column that identifies a row. A row counts as new when this value
+# has not been seen before.
+key = "id"
+
+# If one of these columns disappears, the source has changed. The run then
+# stops, keeps its last good state and writes an alert instead of a report.
+required_columns = ["id", "time", "mag", "place"]
+
+[email]
+to = "you@example.com"
+subject = "{count} new {rows} in {source}"
+# The columns shown in the e-mail, in this order. The full rows are attached
+# as a CSV file.
+columns = ["time", "mag", "place"]
+
+[state]
+# How long a key is remembered. Should be longer than the window the source
+# shows, so a row is never reported twice.
+remember_days = 7
