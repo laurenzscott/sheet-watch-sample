@@ -1,0 +1,50 @@
+name: Watch the sheet
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"   # every 6 hours, at minute 23 (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the tests
+        run: python tests/test_watch.py
+
+      - name: Check the source for new rows
+        id: watch
+        env:
+          # Optional. Without these, the e-mail is written to outbox/ only.
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python watch.py
+
+      - name: Commit the run log and the outbox
+        if: always() && steps.watch.outcome != 'skipped'
+        run: |
+          git config user.name "watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ outbox/ 2>/dev/null || git add data/
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "Run log $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
