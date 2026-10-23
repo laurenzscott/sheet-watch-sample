@@ -1,0 +1,55 @@
+Subject: 6 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Fri, 23 Oct 2026 13:07:23 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0300604610957593629=="
+
+--===============0300604610957593629==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+6 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-10-23 07:12 UTC).
+
+time                      mag  place
+2026-10-23T12:24:24.746Z  4.5  207 km NE of Lospalos, Timor Leste
+2026-10-23T12:19:47.354Z  4.5  193 km ENE of Levuka, Fiji
+2026-10-23T10:19:16.729Z  5.7  61 km WNW of Leni, Italy
+2026-10-23T09:51:39.628Z  4.9  53 km WNW of Leni, Italy
+2026-10-23T09:09:36.956Z  4.5  18 km WNW of Bantogon, Philippines
+2026-10-23T07:14:13.832Z  2.7  66 km WNW of Happy Valley, Alaska
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============0300604610957593629==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTAtMjNU
+MTI6MjQ6MjQuNzQ2WiwtNy4zNDIxLDEyOC40NjY2LDEyOC4xMDcsNC41LG1iLDIyLDEzMCw2LjA2
+NCwwLjczLHVzLHVzNjAwMHU0YncsMjAyNi0xMC0yM1QxMjo0OToxOS4wNDBaLCIyMDcga20gTkUg
+b2YgTG9zcGFsb3MsIFRpbW9yIExlc3RlIixlYXJ0aHF1YWtlLDE1LjkyLDkuMDgzLDAuMTI1LDE5
+LHJldmlld2VkLHVzLHVzCjIwMjYtMTAtMjNUMTI6MTk6NDcuMzU0WiwtMTcuNjgzMywtMTc4Ljkw
+MjEsNTcxLjczNSw0LjUsbWIsMzMsMTM5LDIuMDQxLDAuODMsdXMsdXM2MDAwdTRidiwyMDI2LTEw
+LTIzVDEyOjQyOjEwLjA0MFosIjE5MyBrbSBFTkUgb2YgTGV2dWthLCBGaWppIixlYXJ0aHF1YWtl
+LDcuMzMsOS4xNDcsMC4xMSwyNCxyZXZpZXdlZCx1cyx1cwoyMDI2LTEwLTIzVDEwOjE5OjE2Ljcy
+OVosMzguNzE5OSwxNC4xNTIsMTAsNS43LG13dywxMzAsMjksMS4yNTksMC43NCx1cyx1czYwMDB1
+NGJrLDIwMjYtMTAtMjNUMTI6MjU6MTQuNzIxWiwiNjEga20gV05XIG9mIExlbmksIEl0YWx5Iixl
+YXJ0aHF1YWtlLDQuNjcsMS44MzMsMC4wMzUsODAscmV2aWV3ZWQsdXMsdXMKMjAyNi0xMC0yM1Qw
+OTo1MTozOS42MjhaLDM4LjcyMTksMTQuMjUyNywxMCw0LjksbWIsMTA1LDM1LDEuMjUzLDAuNDUs
+dXMsdXM2MDAwdTRiZywyMDI2LTEwLTIzVDEwOjM3OjQ3LjkwOFosIjUzIGttIFdOVyBvZiBMZW5p
+LCBJdGFseSIsZWFydGhxdWFrZSw2LjMsMS44NSwwLjA2LDg3LHJldmlld2VkLHVzLHVzCjIwMjYt
+MTAtMjNUMDk6MDk6MzYuOTU2Wiw2LjU2NzgsMTIzLjg2ODUsNTkxLjI4OSw0LjUsbWIsOTMsNTcs
+MS43NywwLjYyLHVzLHVzNjAwMHU0YjMsMjAyNi0xMC0yM1QwOToyODoyNC4wNDBaLCIxOCBrbSBX
+Tlcgb2YgQmFudG9nb24sIFBoaWxpcHBpbmVzIixlYXJ0aHF1YWtlLDEwLjk0LDcuNzI4LDAuMDQ5
+LDEyMCxyZXZpZXdlZCx1cyx1cwoyMDI2LTEwLTIzVDA3OjE0OjEzLjgzMlosNjAuMTE4LC0xNTIu
+ODY5LDEyMywyLjcsbWwsMTQ1LDUxLDAuMSwwLjcsYWssYWthMjAyNnV6a3llbiwyMDI2LTEwLTIz
+VDA3OjMzOjUwLjA0MFosIjY2IGttIFdOVyBvZiBIYXBweSBWYWxsZXksIEFsYXNrYSIsZWFydGhx
+dWFrZSwyLjUsMS40ODA5LDAuMyw5NyxhdXRvbWF0aWMsYWssYWsK
+
+--===============0300604610957593629==--
