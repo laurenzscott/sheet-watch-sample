@@ -1,0 +1,70 @@
+Subject: 9 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Sun, 25 Oct 2026 18:56:45 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2213173751747290041=="
+
+--===============2213173751747290041==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+9 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-10-25 13:02 UTC).
+
+time                      mag   place
+2026-10-25T17:49:58.419Z  4.6   153 km WNW of Adak, Alaska
+2026-10-25T17:44:23.735Z  5.2   59 km SW of Ashkāsham, Afghanistan
+2026-10-25T17:11:49.932Z  4.7   19 km NE of Atico, Peru
+2026-10-25T16:10:40.700Z  3.06  39 km ESE of Cruz Bay, U.S. Virgin Islands
+2026-10-25T14:31:41.374Z  2.7   69 km SE of Yakutat, Alaska
+2026-10-25T14:15:20.440Z  2.55  41 km WSW of Winthrop, Washington
+2026-10-25T14:05:31.760Z  2.46  16 km NE of Milford, Utah
+2026-10-25T13:22:33.573Z  4     7 km NNW of Agua Caliente Grande (De Gastélum), Mexico
+2026-10-25T10:17:02.089Z  2.9   166 km SSE of Old Harbor, Alaska
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============2213173751747290041==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTAtMjVU
+MTc6NDk6NTguNDE5Wiw1Mi4xOTIzLC0xNzguODA1NiwxNTIuODk2LDQuNixtYiw3NCw4MywwLjQx
+MywwLjgsdXMsdXM2MDAwdTR2YiwyMDI2LTEwLTI1VDE4OjIzOjE5Ljg5NFosIjE1MyBrbSBXTlcg
+b2YgQWRhaywgQWxhc2thIixlYXJ0aHF1YWtlLDkuNTQsNS4wOTUsMC4wMzYsMjI1LHJldmlld2Vk
+LHVzLHVzCjIwMjYtMTAtMjVUMTc6NDQ6MjMuNzM1WiwzNi4yNzQsNzEuMTAyNSwxMTAuMDI1LDUu
+Mixtd3csOTMsMjAsMi4zMTUsMC43Nyx1cyx1czYwMDB1NHZhLDIwMjYtMTAtMjVUMTg6Mjc6NTQu
+NTcwWiwiNTkga20gU1cgb2YgQXNoa8SBc2hhbSwgQWZnaGFuaXN0YW4iLGVhcnRocXVha2UsNi41
+LDYuMzU2LDAuMDczLDE4LHJldmlld2VkLHVzLHVzCjIwMjYtMTAtMjVUMTc6MTE6NDkuOTMyWiwt
+MTYuMDk5MywtNzMuNDc0MSw2Mi4wOTUsNC43LG1iLDc0LDEzMCwzLjc1LDEuNDYsdXMsdXM2MDAw
+dTR2MSwyMDI2LTEwLTI1VDE3OjM2OjM1LjA0MFosIjE5IGttIE5FIG9mIEF0aWNvLCBQZXJ1Iixl
+YXJ0aHF1YWtlLDguNjUsNy41ODIsMC4wNTgsODkscmV2aWV3ZWQsdXMsdXMKMjAyNi0xMC0yNVQx
+NjoxMDo0MC43MDBaLDE4LjE3MDUsLTY0LjQ1NzgzMzMzMzMzMywxMjAuOTYsMy4wNixtZCw5LDI1
+OCwwLjI5MjQsMC4xNixwcixwcjcxNTM3NjUzLDIwMjYtMTAtMjVUMTY6MzM6MTIuOTYwWiwiMzkg
+a20gRVNFIG9mIENydXogQmF5LCBVLlMuIFZpcmdpbiBJc2xhbmRzIixlYXJ0aHF1YWtlLDcuODYs
+Mi4xNSwwLjI1MzI4NDgwNjI4ODU1LDkscmV2aWV3ZWQscHIscHIKMjAyNi0xMC0yNVQxNDozMTo0
+MS4zNzRaLDU5LjA3NTcsLTEzOC45MzQ3LDEwLDIuNyxtbCwxNCwxNjEsMS44MDUsMSx1cyx1czYw
+MDB1NHVqLDIwMjYtMTAtMjVUMTU6Mjk6MjUuMDQwWiwiNjkga20gU0Ugb2YgWWFrdXRhdCwgQWxh
+c2thIixlYXJ0aHF1YWtlLDMuMjgsMS45NjksMC4wNjksMjgscmV2aWV3ZWQsdXMsdXMKMjAyNi0x
+MC0yNVQxNDoxNToyMC40NDBaLDQ4LjMxMSwtMTIwLjY4MDUsMi44NywyLjU1LG1sLDIzLDExMiww
+LjAxNzE3LDAuMjIsdXcsdXc3MTQxMjc2MzIsMjAyNi0xMC0yNVQxODowNDoyNC44NjNaLCI0MSBr
+bSBXU1cgb2YgV2ludGhyb3AsIFdhc2hpbmd0b24iLGVhcnRocXVha2UsMC4zNywwLjQ4LDAuMTQ0
+NjQ5MjgwODM3ODgsMTgscmV2aWV3ZWQsdXcsdXcKMjAyNi0xMC0yNVQxNDowNTozMS43NjBaLDM4
+LjUxNTE2NjY2NjY2NywtMTEyLjkwNTY2NjY2NjY3LDMuMTgsMi40NixtbCwyMCw2OSwwLjAwNzg0
+NCwwLjE0LHV1LHV1ODAxNjE3OTEsMjAyNi0xMC0yNVQxNToxMTowNC4zNDJaLCIxNiBrbSBORSBv
+ZiBNaWxmb3JkLCBVdGFoIixlYXJ0aHF1YWtlLDAuMzgsMC41MiwwLjE5MjQxMzY5OTc3MjI3LDE2
+LHJldmlld2VkLHV1LHV1CjIwMjYtMTAtMjVUMTM6MjI6MzMuNTczWiwyNi42MDIyLC0xMDguMzc0
+NCwxMCw0LG1iLDQzLDIzNSwyLjQ0NiwwLjgsdXMsdXM2MDAwdTR1OSwyMDI2LTEwLTI1VDE2OjE1
+OjQ5LjAwOVosIjcga20gTk5XIG9mIEFndWEgQ2FsaWVudGUgR3JhbmRlIChEZSBHYXN0w6lsdW0p
+LCBNZXhpY28iLGVhcnRocXVha2UsNC44MywxLjk5MiwwLjEyMiwxOCxyZXZpZXdlZCx1cyx1cwoy
+MDI2LTEwLTI1VDEwOjE3OjAyLjA4OVosNTUuODUsLTE1Mi4xNTEsMCwyLjksbWwsMTMsMzEyLDIs
+MSxhayxha2EyMDI2dmRqY2R6LDIwMjYtMTAtMjVUMTc6MDQ6MDEuNzEwWiwiMTY2IGttIFNTRSBv
+ZiBPbGQgSGFyYm9yLCBBbGFza2EiLGVhcnRocXVha2UsMTMuMywwLDAuMSw5LHJldmlld2VkLGFr
+LGFrCg==
+
+--===============2213173751747290041==--
