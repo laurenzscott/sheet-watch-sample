@@ -1,0 +1,34 @@
+Subject: 1 new row in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Mon, 26 Oct 2026 19:12:05 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5769555692452661348=="
+
+--===============5769555692452661348==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+1 new row in USGS earthquakes M2.5+, last 24 hours since the last check (2026-10-26 15:00 UTC).
+
+time                      mag  place
+2026-10-26T18:07:04.209Z  4.5  74 km SE of Rasht, Tajikistan
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============5769555692452661348==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTAtMjZU
+MTg6MDc6MDQuMjA5WiwzOC42NDQyLDcxLjA3NjQsNDcuMzQ1LDQuNSxtYiwzNSwxNTIsMS4wMDUs
+MSx1cyx1czcwMDB0dGI1LDIwMjYtMTAtMjZUMTg6Mjk6MzIuMDQwWiwiNzQga20gU0Ugb2YgUmFz
+aHQsIFRhamlraXN0YW4iLGVhcnRocXVha2UsNS42MSw2LjcxNiwwLjEzMiwxNyxyZXZpZXdlZCx1
+cyx1cwo=
+
+--===============5769555692452661348==--
