@@ -1,0 +1,72 @@
+Subject: 10 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Wed, 28 Oct 2026 13:25:31 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2833271590320043048=="
+
+--===============2833271590320043048==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+10 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-10-28 07:28 UTC).
+
+time                      mag   place
+2026-10-28T12:47:08.927Z  5     Reykjanes Ridge
+2026-10-28T12:35:23.786Z  4.9   88 km SE of Hihifo, Tonga
+2026-10-28T12:14:49.242Z  4.9   1 km WSW of Butulan, Philippines
+2026-10-28T12:01:11.470Z  4.01  10 km N of Lake Pillsbury, CA
+2026-10-28T11:56:17.454Z  5     Reykjanes Ridge
+2026-10-28T11:37:49.980Z  5.5   Reykjanes Ridge
+2026-10-28T10:56:17.538Z  3     25 km ESE of Kasilof, Alaska
+2026-10-28T09:51:30.360Z  3.85  26 km S of Boca de Yuma, Dominican Republic
+2026-10-28T09:44:00.460Z  4.07  21 km SE of Esperanza, Puerto Rico
+2026-10-28T09:32:56.341Z  4.8   29 km SSW of Sarangani, Philippines
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============2833271590320043048==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTAtMjhU
+MTI6NDc6MDguOTI3Wiw1OC4yMTUzLC0zMi4zMzQ4LDEwLDUsbWIsODcsODksNy4yNDgsMC44Nyx1
+cyx1czcwMDB0dG56LDIwMjYtMTAtMjhUMTM6MDI6MTIuMDQwWixSZXlramFuZXMgUmlkZ2UsZWFy
+dGhxdWFrZSw5LjA3LDEuODg3LDAuMDMsMzYzLHJldmlld2VkLHVzLHVzCjIwMjYtMTAtMjhUMTI6
+MzU6MjMuNzg2WiwtMTYuNTQxLC0xNzMuMjM1NSwxMCw0LjksbWIsNTQsNzMsMi45NjksMC43Nix1
+cyx1czcwMDB0dG50LDIwMjYtMTAtMjhUMTI6NTY6NTMuMDQwWiwiODgga20gU0Ugb2YgSGloaWZv
+LCBUb25nYSIsZWFydGhxdWFrZSwxMC4zMSwxLjg3OCwwLjA1LDEyMyxyZXZpZXdlZCx1cyx1cwoy
+MDI2LTEwLTI4VDEyOjE0OjQ5LjI0MlosNS42MDczLDEyNS40MTgyLDEwLDQuOSxtYiw1Miw4MSwx
+LjQ2MiwwLjY1LHVzLHVzNzAwMHR0bnEsMjAyNi0xMC0yOFQxMzoyMjoyMC4wNDBaLCIxIGttIFdT
+VyBvZiBCdXR1bGFuLCBQaGlsaXBwaW5lcyIsZWFydGhxdWFrZSw1LjU5LDEuODMsMC4wNzMsNTks
+cmV2aWV3ZWQsdXMsdXMKMjAyNi0xMC0yOFQxMjowMToxMS40NzBaLDM5LjUwMDQ5OTcyNTM0Miwt
+MTIyLjk1MTgzNTYzMjMyLDEwLjU5MDAwMDE1MjU4OCw0LjAxLG13LDYzLDMxLDAuMDE2MywwLjIx
+LG5jLG5jNzU0NTg5MDcsMjAyNi0xMC0yOFQxMzoyMTozMS4xNDVaLCIxMCBrbSBOIG9mIExha2Ug
+UGlsbHNidXJ5LCBDQSIsZWFydGhxdWFrZSwwLjIyLDAuNjYwMDAwMDI2LCwxMyxyZXZpZXdlZCxu
+YyxuYwoyMDI2LTEwLTI4VDExOjU2OjE3LjQ1NFosNTguMzU1NiwtMzIuMjM5OCwxMCw1LG1iLDU0
+LDk0LDcuMjIzLDAuNTEsdXMsdXM3MDAwdHRuaywyMDI2LTEwLTI4VDEyOjE0OjA3LjA0MFosUmV5
+a2phbmVzIFJpZGdlLGVhcnRocXVha2UsMTAuNDIsMS45MTIsMC4wNTQsMTEyLHJldmlld2VkLHVz
+LHVzCjIwMjYtMTAtMjhUMTE6Mzc6NDkuOTgwWiw1OC4xMDA1LC0zMi4xNTA4LDEwLDUuNSxtd3cs
+MTExLDMxLDcuMzksMC41Nyx1cyx1czcwMDB0dG5jLDIwMjYtMTAtMjhUMTM6MTM6MTYuMDQwWixS
+ZXlramFuZXMgUmlkZ2UsZWFydGhxdWFrZSw3LjkzLDEuODQ3LDAuMDU0LDMzLHJldmlld2VkLHVz
+LHVzCjIwMjYtMTAtMjhUMTA6NTY6MTcuNTM4Wiw2MC4yNDMsLTE1MC44NTcsNzAuNSwzLG1sLDE0
+NSw3OSwwLjUsMC45LGFrLGFrYTIwMjZ2aXlsYm0sMjAyNi0xMC0yOFQxMTowNTozMS42MTNaLCIy
+NSBrbSBFU0Ugb2YgS2FzaWxvZiwgQWxhc2thIixlYXJ0aHF1YWtlLDEuOCwyLjIwMiwwLjEsMTAx
+LGF1dG9tYXRpYyxhayxhawoyMDI2LTEwLTI4VDA5OjUxOjMwLjM2MFosMTguMTM3MywtNjguNTkx
+MSw4MywzLjg1LG1kLDIxLDE4OSwwLjQzMSwwLjYyLHByLHByMjAyNjMwMTAwMSwyMDI2LTEwLTI4
+VDExOjA3OjI4LjczOFosIjI2IGttIFMgb2YgQm9jYSBkZSBZdW1hLCBEb21pbmljYW4gUmVwdWJs
+aWMiLGVhcnRocXVha2UsMi4yNSw0LjQzLDAuMTMsOSxyZXZpZXdlZCxwcixwcgoyMDI2LTEwLTI4
+VDA5OjQ0OjAwLjQ2MFosMTcuOTU0OCwtNjUuMzM4OCwyNSw0LjA3LG1kLDIxLDE1NywwLjI1Njgs
+MC4zMixwcixwcjIwMjYzMDEwMDAsMjAyNi0xMC0yOFQxMDo0NjoyOS44OTNaLCIyMSBrbSBTRSBv
+ZiBFc3BlcmFuemEsIFB1ZXJ0byBSaWNvIixlYXJ0aHF1YWtlLDAuOTUsMi41NCwwLjA3LDgscmV2
+aWV3ZWQscHIscHIKMjAyNi0xMC0yOFQwOTozMjo1Ni4zNDFaLDUuMTUwNSwxMjUuMzg4NCw4NC4y
+NSw0LjgsbWIsNTUsOTAsMS45MTYsMC41Nix1cyx1czcwMDB0dG16LDIwMjYtMTAtMjhUMTA6MDU6
+MzMuNjczWiwiMjkga20gU1NXIG9mIFNhcmFuZ2FuaSwgUGhpbGlwcGluZXMiLGVhcnRocXVha2Us
+MTAuMiw3LjYyMywwLjA3OSw0OSxyZXZpZXdlZCx1cyx1cwo=
+
+--===============2833271590320043048==--
