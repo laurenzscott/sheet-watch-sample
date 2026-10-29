@@ -1,0 +1,70 @@
+Subject: 9 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Thu, 29 Oct 2026 13:27:51 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1639135284909994152=="
+
+--===============1639135284909994152==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+9 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-10-29 07:29 UTC).
+
+time                      mag   place
+2026-10-29T12:38:05.010Z  2.67  12 km SW of Ridgemark, CA
+2026-10-29T12:14:04.550Z  2.6   5 km WNW of Madera, CA
+2026-10-29T11:38:24.162Z  4.6   Pulau Pulau Tanimbar, Indonesia
+2026-10-29T10:33:22.424Z  4.9   111 km SW of Port-Vila, Vanuatu
+2026-10-29T10:19:13.380Z  2.65  23 km NNW of Saint Croix, U.S. Virgin Islands
+2026-10-29T08:49:42.448Z  5.1   218 km NNW of Bamboo Flat, India
+2026-10-29T07:54:06.718Z  4.6   41 km W of Mosteiros, Portugal
+2026-10-29T07:49:50.928Z  6.4   southeast of Easter Island
+2026-10-29T07:31:30.432Z  5.4   114 km ENE of Barcelona, Philippines
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============1639135284909994152==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTAtMjlU
+MTI6Mzg6MDUuMDEwWiwzNi43NDExNjUxNjExMzMsLTEyMS40NjQ1MDA0MjcyNSw4Ljg1MDAwMDM4
+MTQ2OTcsMi42NyxtZCw2OSwzMiwwLjAwODE1NywwLjE2LG5jLG5jNzU0NTkzNjIsMjAyNi0xMC0y
+OVQxMzoxMjoyMi41NjRaLCIxMiBrbSBTVyBvZiBSaWRnZW1hcmssIENBIixlYXJ0aHF1YWtlLDAu
+MjIsMC40Mzk5OTk5OTgsMC4xLDg1LGF1dG9tYXRpYyxuYyxuYwoyMDI2LTEwLTI5VDEyOjE0OjA0
+LjU1MFosMzYuOTg0NTAwODg1MDEsLTEyMC4xMTAxNjg0NTcwMywxMS45ODk5OTk3NzExMTgsMi42
+LG1kLDM1LDQzLDAuMjE3MiwwLjM5LG5jLG5jNzU0NTkzNTIsMjAyNi0xMC0yOVQxMjo1MjoyMi40
+MjJaLCI1IGttIFdOVyBvZiBNYWRlcmEsIENBIixlYXJ0aHF1YWtlLDAuNTcsMS4wOTAwMDAwMyww
+LjIyLDE4LGF1dG9tYXRpYyxuYyxuYwoyMDI2LTEwLTI5VDExOjM4OjI0LjE2MlosLTcuNTI4OCwx
+MzAuMDIyNCwxMCw0LjYsbWIsNDMsNzgsNS4zOTMsMC45NCx1cyx1czcwMDB0dHlrLDIwMjYtMTAt
+MjlUMTI6NDQ6NDMuMDQwWiwiUHVsYXUgUHVsYXUgVGFuaW1iYXIsIEluZG9uZXNpYSIsZWFydGhx
+dWFrZSwxMC4zLDEuODgyLDAuMDk1LDMzLHJldmlld2VkLHVzLHVzCjIwMjYtMTAtMjlUMTA6MzM6
+MjIuNDI0WiwtMTguNDk3OSwxNjcuNjI2MSwxMCw0LjksbWIsMjgsNzQsMy43NTQsMS40Myx1cyx1
+czcwMDB0dHlkLDIwMjYtMTAtMjlUMTA6NTU6NTIuMDQwWiwiMTExIGttIFNXIG9mIFBvcnQtVmls
+YSwgVmFudWF0dSIsZWFydGhxdWFrZSw2Ljk3LDEuNjE2LDAuMTI2LDI3LHJldmlld2VkLHVzLHVz
+CjIwMjYtMTAtMjlUMTA6MTk6MTMuMzgwWiwxNy45MTMxNjY2NjY2NjcsLTY0Ljg2MzY2NjY2NjY2
+NywxMi42LDIuNjUsbWQsNiwxMzcsMC4xODU4LDAuMTUscHIscHI3MTUzNzkwMywyMDI2LTEwLTI5
+VDExOjA0OjQyLjcxMFosIjIzIGttIE5OVyBvZiBTYWludCBDcm9peCwgVS5TLiBWaXJnaW4gSXNs
+YW5kcyIsZWFydGhxdWFrZSwwLjksMS42MiwwLjE5MDQ5OTY5ODg0Njg0LDQscmV2aWV3ZWQscHIs
+cHIKMjAyNi0xMC0yOVQwODo0OTo0Mi40NDhaLDEzLjM3ODUsOTEuNjU5MywxMCw1LjEsbWIsNzQs
+NjEsNy4zMTYsMC43OSx1cyx1czcwMDB0dHk3LDIwMjYtMTAtMjlUMDk6MDQ6MjguMDQwWiwiMjE4
+IGttIE5OVyBvZiBCYW1ib28gRmxhdCwgSW5kaWEiLGVhcnRocXVha2UsOC4xNywxLjg1LDAuMDc2
+LDU3LHJldmlld2VkLHVzLHVzCjIwMjYtMTAtMjlUMDc6NTQ6MDYuNzE4WiwzNy45MDY1LC0yNi4y
+OTYzLDEwLDQuNixtYiwyNCwyMjYsMC42MjgsMS4xMSx1cyx1czcwMDB0dHkwLDIwMjYtMTAtMjlU
+MDg6MjA6MTIuMDQwWiwiNDEga20gVyBvZiBNb3N0ZWlyb3MsIFBvcnR1Z2FsIixlYXJ0aHF1YWtl
+LDEwLjE0LDEuOTgyLDAuMTI5LDE4LHJldmlld2VkLHVzLHVzCjIwMjYtMTAtMjlUMDc6NDk6NTAu
+OTI4WiwtMzYuNDA1OCwtOTguMDQ4OSwxMCw2LjQsbXd3LDgzLDM5LDEzLjMyMSwxLjMyLHVzLHVz
+NzAwMHR0eHosMjAyNi0xMC0yOVQwOTo1NToyNy4yNzRaLHNvdXRoZWFzdCBvZiBFYXN0ZXIgSXNs
+YW5kLGVhcnRocXVha2UsNS41MiwxLjg0LDAuMDM2LDc0LHJldmlld2VkLHVzLHVzCjIwMjYtMTAt
+MjlUMDc6MzE6MzAuNDMyWiw4LjQ2NzcsMTI3LjQyNjksMTAsNS40LG13dyw5MCw0MywyLjI5OCww
+LjgxLHVzLHVzNzAwMHR0eG4sMjAyNi0xMC0yOVQwOTozNzoyMi4zMDJaLCIxMTQga20gRU5FIG9m
+IEJhcmNlbG9uYSwgUGhpbGlwcGluZXMiLGVhcnRocXVha2UsOS41NiwxLjg0NCwwLjA4LDE1LHJl
+dmlld2VkLHVzLHVzCg==
+
+--===============1639135284909994152==--
