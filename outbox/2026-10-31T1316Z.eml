@@ -1,0 +1,73 @@
+Subject: 10 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Sat, 31 Oct 2026 13:16:41 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8148013844007375008=="
+
+--===============8148013844007375008==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+10 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-10-31 07:22 UTC).
+
+time                      mag   place
+2026-10-31T11:31:12.352Z  5     196 km NW of Port-Olry, Vanuatu
+2026-10-31T10:42:10.031Z  4.4   Fiji region
+2026-10-31T09:30:49.100Z  3.1   95 km NNW of Sandy Ground Village, Anguilla
+2026-10-31T09:18:32.051Z  4.9   236 km NW of Port-Olry, Vanuatu
+2026-10-31T09:15:52.568Z  4.9   213 km W of Sola, Vanuatu
+2026-10-31T08:45:24.930Z  3.21  60 km ESE of Boca de Yuma, Dominican Republic
+2026-10-31T08:09:58.188Z  3     89 km SSE of Akutan, Alaska
+2026-10-31T07:37:26.189Z  2.5   12 km NW of Junction, Utah
+2026-10-31T05:12:44.878Z  3.3   44 km SSW of Nikolski, Alaska
+2026-10-31T01:07:25.254Z  2.6   290 km W of Adak, Alaska
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============8148013844007375008==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTAtMzFU
+MTE6MzE6MTIuMzUyWiwtMTMuOTA2OSwxNjUuNjc1OSwxMCw1LG13dyw0NiwxMTEsNi43MzksMC45
+Myx1cyx1czcwMDB0dWlmLDIwMjYtMTAtMzFUMTE6NDc6MjEuMDQwWiwiMTk2IGttIE5XIG9mIFBv
+cnQtT2xyeSwgVmFudWF0dSIsZWFydGhxdWFrZSwxMC4zNCwxLjg4NCwwLjA3OCwxNixyZXZpZXdl
+ZCx1cyx1cwoyMDI2LTEwLTMxVDEwOjQyOjEwLjAzMVosLTE5LjIyMTIsLTE3Ny40OTU2LDU3NS43
+OSw0LjQsbWIsMzYsODksNC4wNDQsMC44Mix1cyx1czcwMDB0dWk5LDIwMjYtMTAtMzFUMTE6MDM6
+MjAuMDQwWixGaWppIHJlZ2lvbixlYXJ0aHF1YWtlLDEzLjkyLDkuNzEyLDAuMTAxLDI4LHJldmll
+d2VkLHVzLHVzCjIwMjYtMTAtMzFUMDk6MzA6NDkuMTAwWiwxOC45MzcsLTYzLjU3MDMzMzMzMzMz
+MywxNy41OSwzLjEsbWQsNywzMzQsMC45MDUyLDAuNDUscHIscHI3MTUzODAzOCwyMDI2LTEwLTMx
+VDEwOjUwOjAzLjg1MFosIjk1IGttIE5OVyBvZiBTYW5keSBHcm91bmQgVmlsbGFnZSwgQW5ndWls
+bGEiLGVhcnRocXVha2UsNC4xNSwzMS42MSwwLjEzMTEzNzM5MzgxOTI4LDYscmV2aWV3ZWQscHIs
+cHIKMjAyNi0xMC0zMVQwOToxODozMi4wNTFaLC0xMy43ODk0LDE2NS4yOTUxLDEwLDQuOSxtYiwz
+MCwxMTIsNi43OTIsMC42NCx1cyx1czcwMDB0dWh0LDIwMjYtMTAtMzFUMDk6NDA6MzUuMDQwWiwi
+MjM2IGttIE5XIG9mIFBvcnQtT2xyeSwgVmFudWF0dSIsZWFydGhxdWFrZSw2LjMsMS44NjMsMC4w
+OTEsMzgscmV2aWV3ZWQsdXMsdXMKMjAyNi0xMC0zMVQwOToxNTo1Mi41NjhaLC0xMy43NjgzLDE2
+NS41ODMzLDEwLDQuOSxtd3csMzMsMTIwLDYuODU3LDAuOSx1cyx1czcwMDB0dWhzLDIwMjYtMTAt
+MzFUMDk6MzI6MjIuMDQwWiwiMjEzIGttIFcgb2YgU29sYSwgVmFudWF0dSIsZWFydGhxdWFrZSw5
+LjEyLDEuODEyLDAuMDkzLDExLHJldmlld2VkLHVzLHVzCjIwMjYtMTAtMzFUMDg6NDU6MjQuOTMw
+WiwxOC4wNzgxNjY2NjY2NjcsLTY4LjEyOTY2NjY2NjY2Nyw3Ni4zOSwzLjIxLG1kLDIxLDE4NCww
+LjQ5NTMsMC40NyxwcixwcjcxNTM4MDE4LDIwMjYtMTAtMzFUMDk6NDA6MTYuMTYwWiwiNjAga20g
+RVNFIG9mIEJvY2EgZGUgWXVtYSwgRG9taW5pY2FuIFJlcHVibGljIixlYXJ0aHF1YWtlLDIuNzYs
+MS44MSwwLjExMDE0ODg3NDg3MjE4LDExLHJldmlld2VkLHByLHByCjIwMjYtMTAtMzFUMDg6MDk6
+NTguMTg4Wiw1My40MTMsLTE2NS4xNzUsMTAuMiwzLG1sLDExLDMxNSwwLjgsMC40LGFrLGFrYTIw
+MjZ2b2d6ZGQsMjAyNi0xMC0zMVQwOToyNzozMy44NDZaLCI4OSBrbSBTU0Ugb2YgQWt1dGFuLCBB
+bGFza2EiLGVhcnRocXVha2UsMTUuOCw4Ljc1MzQsMC4xLDkscmV2aWV3ZWQsYWssYWsKMjAyNi0x
+MC0zMVQwNzozNzoyNi4xODlaLDM4LjMxNjEsLTExMi4zMjU4LDcuODA2LDIuNSxtbCwzOCw3NCww
+Ljg2NywwLjQ5LHVzLHVzNzAwMHR1aGUsMjAyNi0xMC0zMVQwODoxODo0NS4wNDBaLCIxMiBrbSBO
+VyBvZiBKdW5jdGlvbiwgVXRhaCIsZWFydGhxdWFrZSwyLjgxLDUuNTksMC4wMzgsODkscmV2aWV3
+ZWQsdXMsdXMKMjAyNi0xMC0zMVQwNToxMjo0NC44NzhaLDUyLjU4OCwtMTY5LjE4MSw0My4zLDMu
+MyxtbCwxNywyNDgsMC40LDAuOCxhayxha2EyMDI2dm9iYWdhLDIwMjYtMTAtMzFUMDk6MTc6MTku
+MjM3WiwiNDQga20gU1NXIG9mIE5pa29sc2tpLCBBbGFza2EiLGVhcnRocXVha2UsMTguOCwxMS43
+MDA2LDAuMiwxMyxyZXZpZXdlZCxhayxhawoyMDI2LTEwLTMxVDAxOjA3OjI1LjI1NFosNTEuODY1
+LDE3OS4xNSwyOS42LDIuNixtbCwxMCwxMzcsMC4yLDAuMixhayxha2EyMDI2dm5zd3F6LDIwMjYt
+MTAtMzFUMDc6MzE6MTIuNTgwWiwiMjkwIGttIFcgb2YgQWRhaywgQWxhc2thIixlYXJ0aHF1YWtl
+LDcuNSw4LjMxMjIsMC4xLDgscmV2aWV3ZWQsYWssYWsK
+
+--===============8148013844007375008==--
