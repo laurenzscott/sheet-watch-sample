@@ -1,0 +1,71 @@
+Subject: 10 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Mon, 02 Nov 2026 01:35:17 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6105182642514846350=="
+
+--===============6105182642514846350==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+10 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-01 19:10 UTC).
+
+time                      mag  place
+2026-11-02T00:53:10.555Z  5.1  Banda Sea
+2026-11-02T00:29:44.872Z  4.1  135 km N of Ruteng, Indonesia
+2026-11-01T23:18:05.811Z  4.5  86 km WNW of Abra Pampa, Argentina
+2026-11-01T22:58:31.630Z  2.5  22 km N of Pilot Point, Alaska
+2026-11-01T22:22:43.980Z  4.6  Mid-Indian Ridge
+2026-11-01T21:26:57.524Z  4.7  Kermadec Islands region
+2026-11-01T20:02:05.041Z  2.7  7 km E of Ridgeway, Alaska
+2026-11-01T18:53:57.590Z  4.8  Mid-Indian Ridge
+2026-11-01T18:42:57.023Z  4.6  101 km SW of Basco, Philippines
+2026-11-01T17:57:44.661Z  4.1  117 km NNE of Barishal, Pakistan
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============6105182642514846350==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMDJU
+MDA6NTM6MTAuNTU1WiwtNi45MjA1LDEyOS45NTE0LDkzLjU0OCw1LjEsbWIsODgsNTAsNS45OTks
+MC42Mix1cyx1czcwMDB0dXN2LDIwMjYtMTEtMDJUMDE6Mjk6MzguMDQwWixCYW5kYSBTZWEsZWFy
+dGhxdWFrZSw5LjU0LDQuNjIxLDAuMDY2LDczLHJldmlld2VkLHVzLHVzCjIwMjYtMTEtMDJUMDA6
+Mjk6NDQuODcyWiwtNy4zODM2LDEyMC40Mzg5LDU0My45LDQuMSxtYiw1Myw5NCwyLjQ1MSwwLjYs
+dXMsdXM3MDAwdHVzcCwyMDI2LTExLTAyVDAwOjU4OjQ5LjA0MFosIjEzNSBrbSBOIG9mIFJ1dGVu
+ZywgSW5kb25lc2lhIixlYXJ0aHF1YWtlLDcuNzEsNi43NDIsMC4xMDMsMjYscmV2aWV3ZWQsdXMs
+dXMKMjAyNi0xMS0wMVQyMzoxODowNS44MTFaLC0yMi41NjYxLC02Ni41MjMsMjQzLjU5OCw0LjUs
+bWIsMjYsNzYsMi42MzQsMC42Mix1cyx1czcwMDB0dXM1LDIwMjYtMTEtMDFUMjM6NDU6MzAuMDQw
+WiwiODYga20gV05XIG9mIEFicmEgUGFtcGEsIEFyZ2VudGluYSIsZWFydGhxdWFrZSwxMC4zNiwx
+MC41OCwwLjEyOCwxOCxyZXZpZXdlZCx1cyx1cwoyMDI2LTExLTAxVDIyOjU4OjMxLjYzMFosNTcu
+NzY0LC0xNTcuNTg5LDE5Mi42LDIuNSxtbCw0MywxMTYsMC40LDAuNSxhayxha2EyMDI2dnJncWFx
+LDIwMjYtMTEtMDFUMjM6MDM6MDIuMTMzWiwiMjIga20gTiBvZiBQaWxvdCBQb2ludCwgQWxhc2th
+IixlYXJ0aHF1YWtlLDkuOCw0LjM1MTcsMC40LDMxLGF1dG9tYXRpYyxhayxhawoyMDI2LTExLTAx
+VDIyOjIyOjQzLjk4MFosLTM1LjQzNDYsNzguMzYyNywxMCw0LjYsbWIsNDksNTcsMjQuMzg5LDAu
+NTgsdXMsdXM3MDAwdHVydiwyMDI2LTExLTAxVDIzOjQyOjI1LjA0MFosTWlkLUluZGlhbiBSaWRn
+ZSxlYXJ0aHF1YWtlLDEyLjYxLDEuODcxLDAuMDg4LDM5LHJldmlld2VkLHVzLHVzCjIwMjYtMTEt
+MDFUMjE6MjY6NTcuNTI0WiwtMjcuMjkxLC0xNzcuODcwOCwxNTAuOTUsNC43LG1iLDQ1LDEyMiwx
+Ljk0NywwLjc2LHVzLHVzNzAwMHR1cmosMjAyNi0xMS0wMVQyMTo1ODo1OC4wNDBaLEtlcm1hZGVj
+IElzbGFuZHMgcmVnaW9uLGVhcnRocXVha2UsMTIuODUsNi4yOTYsMC4wNTYsOTcscmV2aWV3ZWQs
+dXMsdXMKMjAyNi0xMS0wMVQyMDowMjowNS4wNDFaLDYwLjU0LC0xNTAuOTUzLDUyLjIsMi43LG1s
+LDk2LDUzLDAuMiwwLjgsYWssYWthMjAyNnZyYXRhcSwyMDI2LTExLTAxVDIwOjA1OjMyLjAyMVos
+Ijcga20gRSBvZiBSaWRnZXdheSwgQWxhc2thIixlYXJ0aHF1YWtlLDIuMSwzLjEyNSwwLjEsNjIs
+YXV0b21hdGljLGFrLGFrCjIwMjYtMTEtMDFUMTg6NTM6NTcuNTkwWiwtMzUuNDQxLDc4LjQxNjks
+MTAsNC44LG1iLDQ1LDgwLDM1LjEyLDAuNjUsdXMsdXM3MDAwdHVyMCwyMDI2LTExLTAxVDE5OjEy
+OjQxLjA0MFosTWlkLUluZGlhbiBSaWRnZSxlYXJ0aHF1YWtlLDEzLjA3LDEuODg2LDAuMDg2LDQy
+LHJldmlld2VkLHVzLHVzCjIwMjYtMTEtMDFUMTg6NDI6NTcuMDIzWiwxOS43NjI2LDEyMS4zMjgs
+MzguNDg4LDQuNixtYiw3OCwxMDcsMy4wNDksMS4xMSx1cyx1czcwMDB0dXF5LDIwMjYtMTEtMDFU
+MTk6NDI6MDAuMDQwWiwiMTAxIGttIFNXIG9mIEJhc2NvLCBQaGlsaXBwaW5lcyIsZWFydGhxdWFr
+ZSwxMC41NCw2LjY1OSwwLjA2OSw2MyxyZXZpZXdlZCx1cyx1cwoyMDI2LTExLTAxVDE3OjU3OjQ0
+LjY2MVosMzcuMzM2LDc1LjA1NCwxMCw0LjEsbWIsNDQsMTExLDIuMjU2LDAuODMsdXMsdXM3MDAw
+dHVxcSwyMDI2LTExLTAxVDIyOjUxOjMyLjA0MFosIjExNyBrbSBOTkUgb2YgQmFyaXNoYWwsIFBh
+a2lzdGFuIixlYXJ0aHF1YWtlLDcuNzUsMS44NjYsMC4wOTksMjgscmV2aWV3ZWQsdXMsdXMK
+
+--===============6105182642514846350==--
