@@ -1,5 +1,9 @@
 # sheet-watch-sample
 
+[![Watch sheet](https://github.com/laurenzscott/sheet-watch-sample/actions/workflows/watch.yml/badge.svg)](https://github.com/laurenzscott/sheet-watch-sample/actions/workflows/watch.yml)
+
+![A watched table: new rows found on a scheduled run and sent by e-mail, with the run log](docs/04-sheet-watch.png)
+
 A table watched on a schedule. New rows are e-mailed to you, every run is logged.
 
 This is a work sample, not a client project. It runs here in public on real data
