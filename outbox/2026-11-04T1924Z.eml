@@ -1,0 +1,80 @@
+Subject: 11 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Wed, 04 Nov 2026 19:24:45 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6745375565953450723=="
+
+--===============6745375565953450723==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+11 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-04 13:35 UTC).
+
+time                      mag              place
+2026-11-04T19:15:13.920Z  2.7678067881889  21 km N of Searles Valley, CA
+2026-11-04T18:59:30.820Z  3.2736081847533  21 km N of Searles Valley, CA
+2026-11-04T17:28:36.393Z  2.5              19 km SSW of Denali National Park, Alaska
+2026-11-04T17:09:51.240Z  3.49             106 km NNE of Punta Cana, Dominican Republic
+2026-11-04T16:59:23.360Z  4.21             100 km NNE of Punta Cana, Dominican Republic
+2026-11-04T14:59:59.236Z  2.5              83 km SW of Nanwalek, Alaska
+2026-11-04T12:22:50.918Z  4.2              81 km S of Nikolski, Alaska
+2026-11-04T12:14:45.921Z  4.3              127 km SSW of Kokopo, Papua New Guinea
+2026-11-04T11:53:35.500Z  2.53             15 km NNE of Milford, Utah
+2026-11-04T10:17:33.908Z  2.5              24 km W of Garden City, Texas
+2026-11-04T06:08:49.254Z  3.2              40 km WSW of Covenant Life, Alaska
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============6745375565953450723==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMDRU
+MTk6MTU6MTMuOTIwWiwzNS45NTk2NjcyMDU4MSwtMTE3LjM4OTY2MzY5NjI5LDIuMDE5OTk5OTgw
+OTI2NSwyLjc2NzgwNjc4ODE4ODksbWwsNDgsNTIsMC4xMTAyLDAuMTgwMDAwMDA3LGNpLGNpNDEz
+NTgzNTksMjAyNi0xMS0wNFQxOToxNzo0Ni4zOTFaLCIyMSBrbSBOIG9mIFNlYXJsZXMgVmFsbGV5
+LCBDQSIsZWFydGhxdWFrZSwwLjIxLDAuNDkwMDAwMDEsMC4yNDc4ODIyMDIyNjc2NSwyNCxhdXRv
+bWF0aWMsY2ksY2kKMjAyNi0xMS0wNFQxODo1OTozMC44MjBaLDM1Ljk1OTgzNTA1MjQ5LC0xMTcu
+Mzk3NjY2OTMxMTUsMC43NSwzLjI3MzYwODE4NDc1MzMsbWwsNTUsMzMsMC4xMTU1LDAuMjE5OTk5
+OTk5LGNpLGNpNDEzNTgzNDMsMjAyNi0xMS0wNFQxOTowNjoxMS45MjRaLCIyMSBrbSBOIG9mIFNl
+YXJsZXMgVmFsbGV5LCBDQSIsZWFydGhxdWFrZSwwLjIyLDAuNjM5OTk5OTg2LDAuMjk3Nzk4NzIy
+OTgyNDEsMTcscmV2aWV3ZWQsY2ksY2kKMjAyNi0xMS0wNFQxNzoyODozNi4zOTNaLDYzLjM2OCwt
+MTUxLjgwMiwxLDIuNSxtbCwzMSwzOCwwLjEsMC45LGFrLGFrYTIwMjZ2d2pycnYsMjAyNi0xMS0w
+NFQxNzozMDoxMS4yMTJaLCIxOSBrbSBTU1cgb2YgRGVuYWxpIE5hdGlvbmFsIFBhcmssIEFsYXNr
+YSIsZWFydGhxdWFrZSwyLjUsMi4yNTk5LDAuMiw2LGF1dG9tYXRpYyxhayxhawoyMDI2LTExLTA0
+VDE3OjA5OjUxLjI0MFosMTkuNDk0OCwtNjguMDc1MywxMCwzLjQ5LG1kLDgsMjI1LDEuMTMxNSww
+LjQ5LHByLHByMjAyNjMwODAwMiwyMDI2LTExLTA0VDE5OjA2OjIwLjY3OFosIjEwNiBrbSBOTkUg
+b2YgUHVudGEgQ2FuYSwgRG9taW5pY2FuIFJlcHVibGljIixlYXJ0aHF1YWtlLDUuMyw1LjE0LDAu
+MDcsNixyZXZpZXdlZCxwcixwcgoyMDI2LTExLTA0VDE2OjU5OjIzLjM2MFosMTkuNDM5NiwtNjgu
+MTAwOCwxMSw0LjIxLG1kLDI2LDIwMiwwLjk2NzMsMC42NSxwcixwcjIwMjYzMDgwMDEsMjAyNi0x
+MS0wNFQxODo0Nzo0OC40MzhaLCIxMDAga20gTk5FIG9mIFB1bnRhIENhbmEsIERvbWluaWNhbiBS
+ZXB1YmxpYyIsZWFydGhxdWFrZSwyLjc4LDMuNzIsMC4xMSwxNCxyZXZpZXdlZCxwcixwcgoyMDI2
+LTExLTA0VDE0OjU5OjU5LjIzNlosNTguODYyLC0xNTMuMDIyLDY4LjcsMi41LG1sLDMwLDc4LDAu
+MywwLjcsYWssYWthMjAyNnZ3ZXN2YiwyMDI2LTExLTA0VDE5OjA3OjEyLjE2MFosIjgzIGttIFNX
+IG9mIE5hbndhbGVrLCBBbGFza2EiLGVhcnRocXVha2UsNC4zLDMuODc0MywwLjIsMTgscmV2aWV3
+ZWQsYWssYWsKMjAyNi0xMS0wNFQxMjoyMjo1MC45MThaLDUyLjIwOCwtMTY4LjczMywxMi42LDQu
+MixtbCw2MiwyMTcsMC44LDEsYWssYWthMjAyNnZ2em1ubiwyMDI2LTExLTA0VDE3OjIxOjQ4LjAx
+MFosIjgxIGttIFMgb2YgTmlrb2xza2ksIEFsYXNrYSIsZWFydGhxdWFrZSw0LjIsMi41Njk2LDAu
+Miw0MixyZXZpZXdlZCxhayxhawoyMDI2LTExLTA0VDEyOjE0OjQ1LjkyMVosLTUuNDcwNiwxNTIu
+MDMwMSwxMCw0LjMsbWIsMTAsMTgxLDEuMjc4LDAuNTYsdXMsdXM3MDAwdHZ4aiwyMDI2LTExLTA0
+VDE0OjAzOjU2LjA0MFosIjEyNyBrbSBTU1cgb2YgS29rb3BvLCBQYXB1YSBOZXcgR3VpbmVhIixl
+YXJ0aHF1YWtlLDkuNTYsMS45NzIsMC4yMDEsNyxyZXZpZXdlZCx1cyx1cwoyMDI2LTExLTA0VDEx
+OjUzOjM1LjUwMFosMzguNTE5NSwtMTEyLjkxOTY2NjY2NjY3LDMuODIsMi41MyxtbCwzMCw1Nyww
+LjAxOTQyLDAuMDksdXUsdXU4MDE2Mjc3NiwyMDI2LTExLTA0VDE0OjI5OjQxLjM1NVosIjE1IGtt
+IE5ORSBvZiBNaWxmb3JkLCBVdGFoIixlYXJ0aHF1YWtlLDAuMjIsMC4zNSwwLjIzMDg3ODkyNzM1
+OTU4LDE2LHJldmlld2VkLHV1LHV1CjIwMjYtMTEtMDRUMTA6MTc6MzMuOTA4WiwzMS44OCwtMTAx
+LjczOCw3LjEwNDUsMi41LG1sLDQ3LDUzLDAuMSwwLjEsdHgsdHgyMDI2dnNpa2RjLDIwMjYtMTEt
+MDRUMTU6MzA6MzIuNjA3WiwiMjQga20gVyBvZiBHYXJkZW4gQ2l0eSwgVGV4YXMiLGVhcnRocXVh
+a2UsMC41ODA2NTU4ODg3NjU1OCwxLjkxNjM0Nzc5NjU3NzUsMC4yLDI4LHJldmlld2VkLHR4LHR4
+CjIwMjYtMTEtMDRUMDY6MDg6NDkuMjU0Wiw1OS4yNDgsLTEzNi42NTksNSwzLjIsbWwsMjcsMTEx
+LDAuMywxLjUsYWssYWthMjAyNnZ2bmFvZCwyMDI2LTExLTA0VDE2OjE3OjM4LjYwNlosIjQwIGtt
+IFdTVyBvZiBDb3ZlbmFudCBMaWZlLCBBbGFza2EiLGVhcnRocXVha2UsMy44LDAsMC4yLDE5LHJl
+dmlld2VkLGFrLGFrCg==
+
+--===============6745375565953450723==--
