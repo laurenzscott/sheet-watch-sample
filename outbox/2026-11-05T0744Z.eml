@@ -1,0 +1,47 @@
+Subject: 4 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Thu, 05 Nov 2026 07:44:03 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2973996869227528151=="
+
+--===============2973996869227528151==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+4 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-05 01:35 UTC).
+
+time                      mag   place
+2026-11-05T04:56:01.430Z  4.96  114 km W of Petrolia, CA
+2026-11-05T04:20:56.986Z  3.1   22 km S of Funny River, Alaska
+2026-11-05T03:43:29.333Z  2.5   23 km S of Funny River, Alaska
+2026-11-04T23:55:50.740Z  3.23  106 km N of Isabela, Puerto Rico
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============2973996869227528151==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMDVU
+MDQ6NTY6MDEuNDMwWiw0MC40MjUzMzQ5MzA0MiwtMTI1LjYyNzE2Njc0ODA1LDIuMTQwMDAwMTA0
+OTA0Miw0Ljk2LG13LDI0MCwyNDEsMC45ODU0LDAuNDksbmMsbmM3NTQ2MjYzNywyMDI2LTExLTA1
+VDA3OjI0OjM5LjkxMVosIjExNCBrbSBXIG9mIFBldHJvbGlhLCBDQSIsZWFydGhxdWFrZSwxLjY1
+LDQwLjc1LCwzOSxyZXZpZXdlZCxuYyxuYwoyMDI2LTExLTA1VDA0OjIwOjU2Ljk4NlosNjAuMzAz
+LC0xNTAuNzgsNjQuNSwzLjEsbWwsMTQ0LDcyLDAuMywwLjcsYWssYWthMjAyNnZ4ZmxoaywyMDI2
+LTExLTA1VDA0OjU0OjU4LjA0MFosIjIyIGttIFMgb2YgRnVubnkgUml2ZXIsIEFsYXNrYSIsZWFy
+dGhxdWFrZSwxLjgsMi4yNDAxLDAuMSw5OCxhdXRvbWF0aWMsYWssYWsKMjAyNi0xMS0wNVQwMzo0
+MzoyOS4zMzNaLDYwLjI5NSwtMTUwLjgzMSw2My45LDIuNSxtbCw3OSw5MSwwLjUsMC43LGFrLGFr
+YTIwMjZ2eGVldXosMjAyNi0xMS0wNVQwMzo0NjoxNi4yMzBaLCIyMyBrbSBTIG9mIEZ1bm55IFJp
+dmVyLCBBbGFza2EiLGVhcnRocXVha2UsMi4zLDMuMDQ1MiwwLjEsNDEsYXV0b21hdGljLGFrLGFr
+CjIwMjYtMTEtMDRUMjM6NTU6NTAuNzQwWiwxOS40NTQzMzMzMzMzMzMsLTY2LjkwNTMzMzMzMzMz
+MywyNi40NCwzLjIzLG1kLDEzLDMxMywwLjk2ODIsMC4xNixwcixwcjcxNTM4NTEzLDIwMjYtMTEt
+MDVUMDI6MTc6MzYuMjkwWiwiMTA2IGttIE4gb2YgSXNhYmVsYSwgUHVlcnRvIFJpY28iLGVhcnRo
+cXVha2UsMC44MSwxMi40MywwLjA2MzY5NzczNDI5MDg5Niw3LHJldmlld2VkLHByLHByCg==
+
+--===============2973996869227528151==--
