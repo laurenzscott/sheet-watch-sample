@@ -1,0 +1,56 @@
+Subject: 6 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Fri, 06 Nov 2026 13:33:02 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2951601201178068779=="
+
+--===============2951601201178068779==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+6 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-06 07:42 UTC).
+
+time                      mag   place
+2026-11-06T11:09:39.456Z  2.8   60 km S of Whites City, New Mexico
+2026-11-06T10:59:41.730Z  3.15  62 km NNE of Luquillo, Puerto Rico
+2026-11-06T10:39:27.869Z  6.1   144 km SE of Hasaki, Japan
+2026-11-06T09:16:59.530Z  2.9   37 km N of Charlotte Amalie, U.S. Virgin Islands
+2026-11-06T08:14:08.319Z  4.5   87 km N of Isangel, Vanuatu
+2026-11-06T06:28:26.156Z  4.9   41 km SW of Balangonan, Philippines
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============2951601201178068779==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMDZU
+MTE6MDk6MzkuNDU2WiwzMS42MzQxLC0xMDQuNDQxNiw3Ljg4OCwyLjgsbWwsMzIsNjUsMC4wNjEs
+MC4yMix1cyx1czcwMDB0d2doLDIwMjYtMTEtMDZUMTI6MjI6NTAuMDQwWiwiNjAga20gUyBvZiBX
+aGl0ZXMgQ2l0eSwgTmV3IE1leGljbyIsZWFydGhxdWFrZSwxLjc3LDEuODg4LDAuMDU3LDQwLHJl
+dmlld2VkLHVzLHVzCjIwMjYtMTEtMDZUMTA6NTk6NDEuNzMwWiwxOC44OTIxNjY2NjY2NjcsLTY1
+LjQ3NjY2NjY2NjY2Nyw2MC4yNCwzLjE1LG1kLDE4LDIxNSwwLjYxLDAuNDcscHIscHI3MTUzODYw
+OCwyMDI2LTExLTA2VDExOjMyOjAxLjkyMFosIjYyIGttIE5ORSBvZiBMdXF1aWxsbywgUHVlcnRv
+IFJpY28iLGVhcnRocXVha2UsMy4wMyw1LjA3LDAuMTIxNjQ1NTc2NzY5MjksMTAscmV2aWV3ZWQs
+cHIscHIKMjAyNi0xMS0wNlQxMDozOToyNy44NjlaLDM0Ljk2NzcsMTQyLjExNzUsMjksNi4xLG13
+dywxMzQsMzIsMy41NDUsMC43Nix1cyx1czcwMDB0d2c5LDIwMjYtMTEtMDZUMTI6NDU6MDcuNzc3
+WiwiMTQ0IGttIFNFIG9mIEhhc2FraSwgSmFwYW4iLGVhcnRocXVha2UsNy45NSwxLjg3MiwwLjA0
+Miw1NCxyZXZpZXdlZCx1cyx1cwoyMDI2LTExLTA2VDA5OjE2OjU5LjUzMFosMTguNjcwMzMzMzMz
+MzMzLC02NC45OTgsNDQuMTksMi45LG1kLDEyLDIwNywwLjMxODcsMC4yNyxwcixwcjcxNTM4NTkz
+LDIwMjYtMTEtMDZUMDk6NDY6MDAuODYwWiwiMzcga20gTiBvZiBDaGFybG90dGUgQW1hbGllLCBV
+LlMuIFZpcmdpbiBJc2xhbmRzIixlYXJ0aHF1YWtlLDMuNTUsMy44OSwwLjE3NDUxMjE5OTEyMzIx
+LDUscmV2aWV3ZWQscHIscHIKMjAyNi0xMS0wNlQwODoxNDowOC4zMTlaLC0xOC43NTQzLDE2OS4y
+NjQ0LDI0Ni41MjEsNC41LG1iLDI4LDE1OSw0LjE5OSwwLjksdXMsdXM3MDAwdHdmdSwyMDI2LTEx
+LTA2VDA4OjMxOjE2LjA0MFosIjg3IGttIE4gb2YgSXNhbmdlbCwgVmFudWF0dSIsZWFydGhxdWFr
+ZSwxNC42Nyw5Ljg4LDAuMTA4LDI1LHJldmlld2VkLHVzLHVzCjIwMjYtMTEtMDZUMDY6Mjg6MjYu
+MTU2Wiw1LjI5OTksMTI1LjA5NzcsMzUsNC45LG1iLDQyLDEyOSwxLjgyMiwwLjY5LHVzLHVzNzAw
+MHR3ZmssMjAyNi0xMS0wNlQwODo1NTowOS4wNDBaLCI0MSBrbSBTVyBvZiBCYWxhbmdvbmFuLCBQ
+aGlsaXBwaW5lcyIsZWFydGhxdWFrZSw3LjYsMS45MjYsMC4xMSwzNSxyZXZpZXdlZCx1cyx1cwo=
+
+--===============2951601201178068779==--
