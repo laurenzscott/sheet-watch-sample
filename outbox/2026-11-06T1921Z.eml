@@ -1,0 +1,51 @@
+Subject: 5 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Fri, 06 Nov 2026 19:21:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2877448304578051906=="
+
+--===============2877448304578051906==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+5 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-06 13:33 UTC).
+
+time                      mag  place
+2026-11-06T17:53:25.873Z  4.3  263 km E of Levuka, Fiji
+2026-11-06T15:26:58.080Z  4.5  101 km SSE of Palekastro, Greece
+2026-11-06T15:17:17.070Z  2.8  6 km NNW of Big Lake, Alaska
+2026-11-06T13:52:56.729Z  4.2  Bonin Islands, Japan region
+2026-11-06T11:09:39.601Z  2.5  58 km S of Whites City, New Mexico
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============2877448304578051906==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMDZU
+MTc6NTM6MjUuODczWiwtMTguMDc0MSwtMTc4LjE5MSw1NjcuMjE4LDQuMyxtYiw2NiwxNTAsMi44
+MTksMC41NSx1cyx1czcwMDB0d2twLDIwMjYtMTEtMDZUMTg6MTY6MzAuMDQwWiwiMjYzIGttIEUg
+b2YgTGV2dWthLCBGaWppIixlYXJ0aHF1YWtlLDE0LjE4LDguNjMxLDAuMDczLDUzLHJldmlld2Vk
+LHVzLHVzCjIwMjYtMTEtMDZUMTU6MjY6NTguMDgwWiwzNC4zMDQzLDI2LjQ5ODcsNDAuNjU3LDQu
+NSxtYiw1NCwxMTUsMS4zNTQsMC42OSx1cyx1czcwMDB0d2hxLDIwMjYtMTEtMDZUMTc6NTc6MjIu
+MDQwWiwiMTAxIGttIFNTRSBvZiBQYWxla2FzdHJvLCBHcmVlY2UiLGVhcnRocXVha2UsNy42MSw4
+LjExOCwwLjA5LDM2LHJldmlld2VkLHVzLHVzCjIwMjYtMTEtMDZUMTU6MTc6MTcuMDcwWiw2MS41
+NjksLTE1MC4wMTcsMTQuOSwyLjgsbWwsOTksMjUsMC40LDAuOSxhayxha2EyMDI2dnp4aXlwLDIw
+MjYtMTEtMDZUMTc6NTQ6NTYuODE3WiwiNiBrbSBOTlcgb2YgQmlnIExha2UsIEFsYXNrYSIsZWFy
+dGhxdWFrZSwxLjgsMS42MDA2LDAuMiw2MCxhdXRvbWF0aWMsYWssYWsKMjAyNi0xMS0wNlQxMzo1
+Mjo1Ni43MjlaLDI2LjkxMzksMTQwLjI0NzgsNDUwLjI0Nyw0LjIsbWIsNDYsMTM2LDguNzQzLDAu
+ODIsdXMsdXM3MDAwdHdoaCwyMDI2LTExLTA2VDE3OjQ2OjQ4LjA0MFosIkJvbmluIElzbGFuZHMs
+IEphcGFuIHJlZ2lvbiIsZWFydGhxdWFrZSwxNC44MywxMC40NDEsMC4wNzQsNTIscmV2aWV3ZWQs
+dXMsdXMKMjAyNi0xMS0wNlQxMTowOTozOS42MDFaLDMxLjY1MSwtMTA0LjQyOCw1LjMzMDgsMi41
+LG1sLDI1LDc3LDAsMC4yLHR4LHR4MjAyNnZ3Ym9ycSwyMDI2LTExLTA2VDE1OjU0OjU4LjM5OVos
+IjU4IGttIFMgb2YgV2hpdGVzIENpdHksIE5ldyBNZXhpY28iLGVhcnRocXVha2UsMC45ODY4MDQ1
+MzY0MDQxMSwwLjgxNzYxMjA4NDE2MTgxLDAuMSwyMCxyZXZpZXdlZCx0eCx0eAo=
+
+--===============2877448304578051906==--
