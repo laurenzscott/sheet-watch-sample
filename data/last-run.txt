@@ -1,13 +1,13 @@
 LAST RUN - USGS earthquakes M2.5+, last 24 hours
 
-run at (UTC)     2026-11-06 19:21 UTC
+run at (UTC)     2026-11-07 01:27 UTC
 status           ok
-rows in source   28
-new rows         5
+rows in source   30
+new rows         11
 e-mail           written
-note             outbox/2026-11-06T1921Z.eml
+note             outbox/2026-11-07T0127Z.eml
 
 SINCE THE FIRST RUN
-runs             77 (77 ok, 0 needing a check)
-new rows         874 reported, 76 e-mail(s) written or sent
+runs             78 (78 ok, 0 needing a check)
+new rows         885 reported, 77 e-mail(s) written or sent
 first run (UTC)  2026-10-18 21:01 UTC
