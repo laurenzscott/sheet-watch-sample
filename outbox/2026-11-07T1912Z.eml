@@ -1,0 +1,72 @@
+Subject: 10 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Sat, 07 Nov 2026 19:12:48 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2631256078067969042=="
+
+--===============2631256078067969042==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+10 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-07 13:18 UTC).
+
+time                      mag   place
+2026-11-07T18:10:56.160Z  3.12  13 km NE of Milford, Utah
+2026-11-07T17:58:54.493Z  2.9   7 km SW of Nikolaevsk, Alaska
+2026-11-07T17:17:38.931Z  4.7   45 km NNW of Salinas, Ecuador
+2026-11-07T16:29:24.746Z  2.5   38 km NW of Beluga, Alaska
+2026-11-07T16:04:35.125Z  5.5   10 km NW of Hamakita, Japan
+2026-11-07T15:43:14.995Z  2.6   25 km S of Clayton, Idaho
+2026-11-07T15:22:50.149Z  4.9   77 km NNW of Khorixas, Namibia
+2026-11-07T15:15:22.161Z  2.6   101 km N of Yakutat, Alaska
+2026-11-07T15:05:45.113Z  4.5   Fiji region
+2026-11-06T20:00:13.886Z  3.2   87 km NE of Adak, Alaska
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============2631256078067969042==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMDdU
+MTg6MTA6NTYuMTYwWiwzOC40NzgzMzMzMzMzMzMsLTExMi44OTUxNjY2NjY2NywzLjUsMy4xMixt
+bCwzNCwzNSwwLjAwNzI0MywwLjE3LHV1LHV1ODAxNjM1MjEsMjAyNi0xMS0wN1QxOTowMTo0Ny4y
+OTJaLCIxMyBrbSBORSBvZiBNaWxmb3JkLCBVdGFoIixlYXJ0aHF1YWtlLDAuMjMsMC40MywwLjEz
+Nzg5MDY3Mzk0NTExLDI1LHJldmlld2VkLHV1LHV1CjIwMjYtMTEtMDdUMTc6NTg6NTQuNDkzWiw1
+OS43NjYsLTE1MS43LDc2LjYsMi45LG1sLDExNSwxMDEsMC40LDAuNyxhayxha2EyMDI2d2J5dHF6
+LDIwMjYtMTEtMDdUMTk6MDQ6MjcuMDQwWiwiNyBrbSBTVyBvZiBOaWtvbGFldnNrLCBBbGFza2Ei
+LGVhcnRocXVha2UsMi4yLDEuODY1LDAuMiw3NixhdXRvbWF0aWMsYWssYWsKMjAyNi0xMS0wN1Qx
+NzoxNzozOC45MzFaLC0xLjg1MDUsLTgxLjE0MzksMTAsNC43LG1iLDYwLDE0MywxLjk4MiwwLjcz
+LHVzLHVzNzAwMHR3dDgsMjAyNi0xMS0wN1QxNzozNzoxNS4wNDBaLCI0NSBrbSBOTlcgb2YgU2Fs
+aW5hcywgRWN1YWRvciIsZWFydGhxdWFrZSw4LjE4LDEuNTUxLDAuMDUzLDEwNyxyZXZpZXdlZCx1
+cyx1cwoyMDI2LTExLTA3VDE2OjI5OjI0Ljc0NlosNjEuMzM4LC0xNTEuNjgyLDgxLjYsMi41LG1s
+LDg5LDQ1LDAuMSwwLjcsYWssYWthMjAyNndidnViaCwyMDI2LTExLTA3VDE3OjQ0OjMwLjI3N1os
+IjM4IGttIE5XIG9mIEJlbHVnYSwgQWxhc2thIixlYXJ0aHF1YWtlLDIuNiwxLjk5MzIsMC4zLDUy
+LGF1dG9tYXRpYyxhayxhawoyMDI2LTExLTA3VDE2OjA0OjM1LjEyNVosMzQuODYxMSwxMzcuNjkx
+LDM4LjA4MSw1LjUsbXd3LDEyOSw0OSwwLjczLDAuOSx1cyx1czcwMDB0d3QwLDIwMjYtMTEtMDdU
+MTg6MTE6NDQuMzM1WiwiMTAga20gTlcgb2YgSGFtYWtpdGEsIEphcGFuIixlYXJ0aHF1YWtlLDUu
+MzEsMy44NDcsMC4wNzUsMTcscmV2aWV3ZWQsdXMsdXMKMjAyNi0xMS0wN1QxNTo0MzoxNC45OTVa
+LDQ0LjAzMDIsLTExNC40NTQ5LDExLjkwNiwyLjYsbWwsNjcsNDgsMC4yOTIsMC41Nyx1cyx1czcw
+MDB0d3N1LDIwMjYtMTEtMDdUMTg6Mjg6NTAuMDQwWiwiMjUga20gUyBvZiBDbGF5dG9uLCBJZGFo
+byIsZWFydGhxdWFrZSwyLjUzLDYuOTM3LDAuMDMsMTQ4LHJldmlld2VkLHVzLHVzCjIwMjYtMTEt
+MDdUMTU6MjI6NTAuMTQ5WiwtMTkuNzQwMiwxNC42NDY3LDguMDM1LDQuOSxtYiwxMDEsNDQsMi44
+MjIsMC43LHVzLHVzNzAwMHR3c3MsMjAyNi0xMS0wN1QxNjowNDoxMS40NjJaLCI3NyBrbSBOTlcg
+b2YgS2hvcml4YXMsIE5hbWliaWEiLGVhcnRocXVha2UsOC4xOSwzLjk3MiwwLjA2MSw4NixyZXZp
+ZXdlZCx1cyx1cwoyMDI2LTExLTA3VDE1OjE1OjIyLjE2MVosNjAuNDU2MiwtMTM5Ljc2MDcsNSwy
+LjYsbWwsNTMsMTcwLDAuNzE2LDAuMzYsdXMsdXM3MDAwdHdzciwyMDI2LTExLTA3VDE3OjQ2OjU3
+LjA0MFosIjEwMSBrbSBOIG9mIFlha3V0YXQsIEFsYXNrYSIsZWFydGhxdWFrZSwyLjM4LDEuOTQ2
+LDAuMDQyLDc2LHJldmlld2VkLHVzLHVzCjIwMjYtMTEtMDdUMTU6MDU6NDUuMTEzWiwtMjAuODM2
+MywtMTc4LjcxMTksNTcxLjg5OCw0LjUsbWIsMTMwLDQwLDQuMzM1LDAuOCx1cyx1czcwMDB0d3Nw
+LDIwMjYtMTEtMDdUMTY6MTM6MzEuMDQwWixGaWppIHJlZ2lvbixlYXJ0aHF1YWtlLDExLjg3LDYu
+NTY4LDAuMDQ3LDEzMixyZXZpZXdlZCx1cyx1cwoyMDI2LTExLTA2VDIwOjAwOjEzLjg4NlosNTIu
+MzkzNSwtMTc1LjY2NzQsMjQ2LjE1NSwzLjIsbWwsMTksMTQ3LDAuMzg0LDAuNTgsdXMsdXM3MDAw
+dHdwMSwyMDI2LTExLTA3VDE1OjE3OjQyLjA0MFosIjg3IGttIE5FIG9mIEFkYWssIEFsYXNrYSIs
+ZWFydGhxdWFrZSwxOC44Niw4LjU5NiwwLjA5MSwxNixyZXZpZXdlZCx1cyx1cwo=
+
+--===============2631256078067969042==--
