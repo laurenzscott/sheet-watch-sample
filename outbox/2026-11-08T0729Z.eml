@@ -1,0 +1,72 @@
+Subject: 10 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Sun, 08 Nov 2026 07:29:35 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7978892092198544330=="
+
+--===============7978892092198544330==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+10 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-08 01:35 UTC).
+
+time                      mag  place
+2026-11-08T06:30:19.447Z  4.5  90 km NE of Punta Cana, Dominican Republic
+2026-11-08T05:51:35.372Z  3    16 km SW of Susitna, Alaska
+2026-11-08T05:17:38.948Z  3.8  73 km NNW of Chalkyitsik, Alaska
+2026-11-08T04:59:01.156Z  2.5  12 km SW of Georgetown, Idaho
+2026-11-08T03:10:16.186Z  2.6  35 km N of Sutton-Alpine, Alaska
+2026-11-08T02:50:10.197Z  4.3  76 km WNW of Murghob, Tajikistan
+2026-11-08T01:53:16.193Z  4.5  11 km W of Honmachi, Japan
+2026-11-08T00:34:32.790Z  2.6  91 km SSW of Nikolski, Alaska
+2026-11-07T23:14:33.811Z  4.4  91 km ESE of Kyzyl-Eshme, Kyrgyzstan
+2026-11-07T19:45:08.410Z  4    203 km SE of Unalaska, Alaska
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============7978892092198544330==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMDhU
+MDY6MzA6MTkuNDQ3WiwxOS4yMDQ3LC02Ny44NTIzLDMwLjQyNCw0LjUsbWIsMzAsMTQwLDAuODUs
+MC41Nyx1cyx1czcwMDB0d3djLDIwMjYtMTEtMDhUMDc6MTc6NDIuMDk4WiwiOTAga20gTkUgb2Yg
+UHVudGEgQ2FuYSwgRG9taW5pY2FuIFJlcHVibGljIixlYXJ0aHF1YWtlLDUuMDYsOC4xMTUsMC4w
+NzQsNTMscmV2aWV3ZWQsdXMsdXMKMjAyNi0xMS0wOFQwNTo1MTozNS4zNzJaLDYxLjQyNCwtMTUw
+LjY5Nyw3MC4yLDMsbWwsMTI4LDUzLDAuNCwwLjcsYWssYWthMjAyNndjd25vdywyMDI2LTExLTA4
+VDA2OjUxOjQ3LjA0MFosIjE2IGttIFNXIG9mIFN1c2l0bmEsIEFsYXNrYSIsZWFydGhxdWFrZSwy
+LDIuNDMyMSwwLjIsODcsYXV0b21hdGljLGFrLGFrCjIwMjYtMTEtMDhUMDU6MTc6MzguOTQ4Wiw2
+Ny4yNjksLTE0NC4zMDksMy41LDMuOCxtbCwxMDcsNjcsMC4yLDEuMixhayxha2EyMDI2d2N2a2hp
+LDIwMjYtMTEtMDhUMDY6NDc6NDcuMDQwWiwiNzMga20gTk5XIG9mIENoYWxreWl0c2lrLCBBbGFz
+a2EiLGVhcnRocXVha2UsMi45LDIuNTkzOSwwLjEsNzYscmV2aWV3ZWQsYWssYWsKMjAyNi0xMS0w
+OFQwNDo1OTowMS4xNTZaLDQyLjQwMzEsLTExMS40NzMyLDEzLjcyOSwyLjUsbWwsNDIsNTgsMC4z
+NjcsMC43OCx1cyx1czcwMDB0d3Z5LDIwMjYtMTEtMDhUMDU6NTM6MzAuMDQwWiwiMTIga20gU1cg
+b2YgR2VvcmdldG93biwgSWRhaG8iLGVhcnRocXVha2UsMC45NCw3LjAxMiwwLjA0LDgyLHJldmll
+d2VkLHVzLHVzCjIwMjYtMTEtMDhUMDM6MTA6MTYuMTg2Wiw2Mi4wODgsLTE0OC44ODEsMTMuOSwy
+LjYsbWwsMTA3LDI2LDAuNCwwLjksYWssYWthMjAyNndjcmRlaywyMDI2LTExLTA4VDA1OjI2OjQx
+LjY4NFosIjM1IGttIE4gb2YgU3V0dG9uLUFscGluZSwgQWxhc2thIixlYXJ0aHF1YWtlLDEuNiwx
+LjU5NTYsMC4yLDY2LGF1dG9tYXRpYyxhayxhawoyMDI2LTExLTA4VDAyOjUwOjEwLjE5N1osMzgu
+NDUwOCw3My4xNjc1LDk1LjM5NCw0LjMsbWIsMjMsMjUwLDEuNDc5LDAuNzksdXMsdXM3MDAwdHd2
+aCwyMDI2LTExLTA4VDAzOjA1OjM5LjA0MFosIjc2IGttIFdOVyBvZiBNdXJnaG9iLCBUYWppa2lz
+dGFuIixlYXJ0aHF1YWtlLDkuNDYsOS4zNiwwLjE1NCwxMixyZXZpZXdlZCx1cyx1cwoyMDI2LTEx
+LTA4VDAxOjUzOjE2LjE5M1osMzIuNTAxNCwxMzAuNDcyMSwxMCw0LjUsbWIsMjIsMTE1LDAuOTg5
+LDAuODYsdXMsdXM3MDAwdHd2YiwyMDI2LTExLTA4VDAyOjM5OjU2LjA0MFosIjExIGttIFcgb2Yg
+SG9ubWFjaGksIEphcGFuIixlYXJ0aHF1YWtlLDYuMDgsMS44NTIsMC4yNDMsNSxyZXZpZXdlZCx1
+cyx1cwoyMDI2LTExLTA4VDAwOjM0OjMyLjc5MFosNTIuMTY1LC0xNjkuMzM0LDQuNywyLjYsbWws
+MTMsMjg2LDAuNywwLjgsYWssYWthMjAyNndjbHl1YywyMDI2LTExLTA4VDA2OjEzOjE5Ljk1MVos
+IjkxIGttIFNTVyBvZiBOaWtvbHNraSwgQWxhc2thIixlYXJ0aHF1YWtlLDkuMiw1LjI4MjgsMC4x
+LDExLHJldmlld2VkLGFrLGFrCjIwMjYtMTEtMDdUMjM6MTQ6MzMuODExWiwzOS4zMTQ2LDczLjI4
+MDEsMTAsNC40LG1iLDE3LDE2NCwxLjE1OSwwLjksdXMsdXM3MDAwdHd1bSwyMDI2LTExLTA4VDAy
+OjIzOjU2LjA0MFosIjkxIGttIEVTRSBvZiBLeXp5bC1Fc2htZSwgS3lyZ3l6c3RhbiIsZWFydGhx
+dWFrZSwzLjcsMS45NTEsMC4yMTksNixyZXZpZXdlZCx1cyx1cwoyMDI2LTExLTA3VDE5OjQ1OjA4
+LjQxMFosNTIuMzc3LC0xNjQuNzgyLDI3LjksNCxtbCw5OSwyMTYsMS44LDAuOCxhayxha2EyMDI2
+d2NjaHVmLDIwMjYtMTEtMDhUMDY6MDM6MTAuNzI5WiwiMjAzIGttIFNFIG9mIFVuYWxhc2thLCBB
+bGFza2EiLGVhcnRocXVha2UsNS43LDcuNjA1OSwwLjIsNTYscmV2aWV3ZWQsYWssYWsK
+
+--===============7978892092198544330==--
