@@ -1,0 +1,66 @@
+Subject: 8 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Mon, 09 Nov 2026 01:38:33 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8877905340264149159=="
+
+--===============8877905340264149159==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+8 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-08 19:12 UTC).
+
+time                      mag   place
+2026-11-09T00:46:59.721Z  5.3   south of the Fiji Islands
+2026-11-09T00:44:35.380Z  2.59  1 km NNW of The Geysers, CA
+2026-11-09T00:28:15.138Z  2.9   5 km WSW of Westbrook, Texas
+2026-11-09T00:15:10.114Z  2.9   13 km SSW of Susitna, Alaska
+2026-11-08T22:51:23.660Z  2.45  53 km SW of Captain Cook, Hawaii
+2026-11-08T20:16:30.347Z  4.5   43 km E of Onagawa Chō, Japan
+2026-11-08T20:11:09.912Z  3     44 km NNW of Glacier View, Alaska
+2026-11-08T19:20:31.718Z  4.4   off the coast of Oregon
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============8877905340264149159==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMDlU
+MDA6NDY6NTkuNzIxWiwtMjMuNjI2NiwxNzkuMTA1NCw1MzguNDE2LDUuMyxtYiw3OSw4Myw1Ljkz
+NCwwLjg3LHVzLHVzNzAwMHR4MGYsMjAyNi0xMS0wOVQwMTowMzoxNi4wNDBaLHNvdXRoIG9mIHRo
+ZSBGaWppIElzbGFuZHMsZWFydGhxdWFrZSwxMS44Myw4LjQwNSwwLjA0NywxNDgscmV2aWV3ZWQs
+dXMsdXMKMjAyNi0xMS0wOVQwMDo0NDozNS4zODBaLDM4Ljc4OTAwMTQ2NDg0NCwtMTIyLjc2MTQ5
+NzQ5NzU2LDAuNDMwMDAwMDA3MTUyNTYsMi41OSxtZCw2Myw0MiwwLjAxMTY5LDAuMDgsbmMsbmM3
+NTQ2NDIwMiwyMDI2LTExLTA5VDAxOjIyOjIzLjMzN1osIjEga20gTk5XIG9mIFRoZSBHZXlzZXJz
+LCBDQSIsZWFydGhxdWFrZSwwLjEzLDAuMjMwMDAwMDA0LDAuMTYsNzAsYXV0b21hdGljLG5jLG5j
+CjIwMjYtMTEtMDlUMDA6Mjg6MTUuMTM4WiwzMi4zNDEsLTEwMS4wNzEsNy4yOTk4LDIuOSxtbCwx
+Nyw3MSwwLjIsMC4xLHR4LHR4MjAyNndhdG15YSwyMDI2LTExLTA5VDAwOjQ2OjM2LjE5OFosIjUg
+a20gV1NXIG9mIFdlc3Ricm9vaywgVGV4YXMiLGVhcnRocXVha2UsMC44NzA1MTM5NzA0NDg3OSwy
+LjEzODYwNDcxNTM1NzksMC4xLDMzLHJldmlld2VkLHR4LHR4CjIwMjYtMTEtMDlUMDA6MTU6MTAu
+MTE0Wiw2MS40MjgsLTE1MC42MDQsNjAuOSwyLjksbWwsMTA2LDU2LDAuMywwLjgsYWssYWthMjAy
+NndlaGlheCwyMDI2LTExLTA5VDAxOjI5OjUwLjExN1osIjEzIGttIFNTVyBvZiBTdXNpdG5hLCBB
+bGFza2EiLGVhcnRocXVha2UsMi4xLDMuMTE4NiwwLjEsNzYsYXV0b21hdGljLGFrLGFrCjIwMjYt
+MTEtMDhUMjI6NTE6MjMuNjYwWiwxOS4xODYxNjY3NjMzMDYsLTE1Ni4zMTMwMDM1NDAwNCw2NS4z
+MzAwMDE4MzEwNTUsMi40NSxtZCw5LDMxOSwwLjQyNjQsMC4xODk5OTk5OTgsaHYsaHY3NTA2ODY1
+NywyMDI2LTExLTA4VDIyOjU0OjUwLjgyMFosIjUzIGttIFNXIG9mIENhcHRhaW4gQ29vaywgSGF3
+YWlpIixlYXJ0aHF1YWtlLDQuOTgsMi40NjAwMDAwNCwwLjA2MDU3MzEwNTY3MjI0Myw4LGF1dG9t
+YXRpYyxodixodgoyMDI2LTExLTA4VDIwOjE2OjMwLjM0N1osMzguMzc4MiwxNDEuOTM3LDU1LjY5
+OSw0LjUsbXdyLDgzLDEzMSwyLjUwMSwwLjY0LHVzLHVzNzAwMHR3ejIsMjAyNi0xMS0wOFQyMDoz
+NjoyMy4wNDBaLCI0MyBrbSBFIG9mIE9uYWdhd2EgQ2jFjSwgSmFwYW4iLGVhcnRocXVha2UsNy45
+NSw2LjExMiwwLjA2NiwyMixyZXZpZXdlZCx1cyx1cwoyMDI2LTExLTA4VDIwOjExOjA5LjkxMlos
+NjIuMTk1LC0xNDcuODYxLDIwLjksMyxtbCwxMTMsMTYsMC40LDEuMSxhayxha2EyMDI2d2R6ZXdv
+LDIwMjYtMTEtMDhUMjE6MTA6MzMuMDQwWiwiNDQga20gTk5XIG9mIEdsYWNpZXIgVmlldywgQWxh
+c2thIixlYXJ0aHF1YWtlLDEuNiwyLjA0NjcsMC4yLDc0LGF1dG9tYXRpYyxhayxhawoyMDI2LTEx
+LTA4VDE5OjIwOjMxLjcxOFosNDQuMDI4NiwtMTI4LjU0MDUsMTAsNC40LG1iLDkyLDE5NCwyLjMw
+MywwLjc4LHVzLHVzNzAwMHR3eXcsMjAyNi0xMS0wOVQwMTozMDozNC45MzVaLG9mZiB0aGUgY29h
+c3Qgb2YgT3JlZ29uLGVhcnRocXVha2UsOC41LDEuODM3LDAuMDYzLDc0LHJldmlld2VkLHVzLHVz
+Cg==
+
+--===============8877905340264149159==--
