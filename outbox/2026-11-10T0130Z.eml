@@ -1,0 +1,55 @@
+Subject: 6 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Tue, 10 Nov 2026 01:30:16 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6036560134288699557=="
+
+--===============6036560134288699557==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+6 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-09 19:22 UTC).
+
+time                      mag   place
+2026-11-09T23:45:26.548Z  4.9   south of the Fiji Islands
+2026-11-09T22:56:58.999Z  2.76  21 km W of Preston, Nevada
+2026-11-09T22:03:07.482Z  4.7   103 km W of Attu Station, Alaska
+2026-11-09T20:36:18.548Z  3.3   76 km WNW of Petersville, Alaska
+2026-11-09T19:27:54.236Z  4.8   149 km NW of Port-Olry, Vanuatu
+2026-11-09T19:09:47.863Z  4.6   south of the Fiji Islands
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============6036560134288699557==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMDlU
+MjM6NDU6MjYuNTQ4WiwtMjQuNTcxNSwtMTc3LjM3NTcsMTc1LjUyNyw0LjksbWIsNjUsMTIzLDQu
+NjgxLDAuNjcsdXMsdXM3MDAwdHg3diwyMDI2LTExLTEwVDAxOjEwOjI1LjA0MFosc291dGggb2Yg
+dGhlIEZpamkgSXNsYW5kcyxlYXJ0aHF1YWtlLDcuNyw1LjM1NCwwLjAzOSwyMDUscmV2aWV3ZWQs
+dXMsdXMKMjAyNi0xMS0wOVQyMjo1Njo1OC45OTlaLDM4LjkzMjMsLTExNS4zMDk4LDMuODYzMywy
+Ljc2LG1sLDcsMjAyLDAuMzg4LDAuMTQ0MSxubixubjAwOTI2ODMzLDIwMjYtMTEtMTBUMDA6MTA6
+MjguMDQwWiwiMjEga20gVyBvZiBQcmVzdG9uLCBOZXZhZGEiLGVhcnRocXVha2UsLDIuOTYyLDAu
+MjksMixyZXZpZXdlZCxubixubgoyMDI2LTExLTA5VDIyOjAzOjA3LjQ4MlosNTIuNzk4NCwxNzEu
+NjQ2NiwxMCw0LjcsbWIsMzIsMTQ0LDQuMzI2LDAuNjEsdXMsdXM3MDAwdHg3aCwyMDI2LTExLTA5
+VDIzOjU3OjU3LjQ4N1osIjEwMyBrbSBXIG9mIEF0dHUgU3RhdGlvbiwgQWxhc2thIixlYXJ0aHF1
+YWtlLDE0LjI0LDEuOTQ2LDAuMDQ3LDEzNixyZXZpZXdlZCx1cyx1cwoyMDI2LTExLTA5VDIwOjM2
+OjE4LjU0OFosNjIuNjkzLC0xNTIuMTkzLDUsMy4zLG1sLDEwNCwyNSwwLjIsMS40LGFrLGFrYTIw
+MjZ3ZndiaXgsMjAyNi0xMS0wOVQyMjowNjo1MS4wNDBaLCI3NiBrbSBXTlcgb2YgUGV0ZXJzdmls
+bGUsIEFsYXNrYSIsZWFydGhxdWFrZSwyLjIsLDAuMSw2NSxhdXRvbWF0aWMsYWssYWsKMjAyNi0x
+MS0wOVQxOToyNzo1NC4yMzZaLC0xNC4yNDI4LDE2NS45NTM5LDEwLDQuOCxtYiw0NSwxMTgsNi40
+NzIsMC43NCx1cyx1czcwMDB0eDZtLDIwMjYtMTEtMDlUMTk6NTU6MDguMDQwWiwiMTQ5IGttIE5X
+IG9mIFBvcnQtT2xyeSwgVmFudWF0dSIsZWFydGhxdWFrZSwxMC42NiwxLjg4OCwwLjA5LDM4LHJl
+dmlld2VkLHVzLHVzCjIwMjYtMTEtMDlUMTk6MDk6NDcuODYzWiwtMjMuNjc1LC0xNzkuOTYxMyw1
+MTkuOTQ0LDQuNixtYiw3OCw2OCw1LjgzOCwwLjUsdXMsdXM3MDAwdHg2bCwyMDI2LTExLTA5VDE5
+OjI2OjU0LjA0MFosc291dGggb2YgdGhlIEZpamkgSXNsYW5kcyxlYXJ0aHF1YWtlLDEzLjEsOC41
+MSwwLjA1NSw5NyxyZXZpZXdlZCx1cyx1cwo=
+
+--===============6036560134288699557==--
