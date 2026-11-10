@@ -1,0 +1,56 @@
+Subject: 6 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Tue, 10 Nov 2026 13:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3539404819685449441=="
+
+--===============3539404819685449441==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+6 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-10 07:38 UTC).
+
+time                      mag   place
+2026-11-10T12:30:36.703Z  2.6   51 km N of Aleneva, Alaska
+2026-11-10T10:02:02.815Z  2.5   59 km E of Pedro Bay, Alaska
+2026-11-10T08:48:04.860Z  3.68  69 km N of Culebra, Puerto Rico
+2026-11-10T08:34:07.131Z  5     58 km NE of Fef, Indonesia
+2026-11-10T07:42:52.710Z  4.29  19 km ESE of Joseph, Oregon
+2026-11-09T20:26:36.527Z  2.6   11 km WNW of Hilltop, Texas
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============3539404819685449441==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMTBU
+MTI6MzA6MzYuNzAzWiw1OC41MTYsLTE1Mi45OTYsNjQuMywyLjYsbWwsNDAsMTE2LDAuNSwwLjUs
+YWssYWthMjAyNndoYndybCwyMDI2LTExLTEwVDEyOjM0OjQ2LjMzNVosIjUxIGttIE4gb2YgQWxl
+bmV2YSwgQWxhc2thIixlYXJ0aHF1YWtlLDUuMyw2LjYzNjEsMC4zLDI0LGF1dG9tYXRpYyxhayxh
+awoyMDI2LTExLTEwVDEwOjAyOjAyLjgxNVosNTkuNjk2LC0xNTMuMDY3LDExMS4xLDIuNSxtbCw3
+OSw4NiwwLjEsMC43LGFrLGFrYTIwMjZ3Z3d4d3csMjAyNi0xMS0xMFQxMDowNTozNi4yMzdaLCI1
+OSBrbSBFIG9mIFBlZHJvIEJheSwgQWxhc2thIixlYXJ0aHF1YWtlLDQuMSwxLjgzOTYsMC40LDM4
+LGF1dG9tYXRpYyxhayxhawoyMDI2LTExLTEwVDA4OjQ4OjA0Ljg2MFosMTguOTI4NSwtNjUuMjM4
+OCwxNCwzLjY4LG1kLDIzLDIzNCwwLjYyMjUsMC4zNyxwcixwcjIwMjYzMTQwMDAsMjAyNi0xMS0x
+MFQwOTozOTo1My4yOTNaLCI2OSBrbSBOIG9mIEN1bGVicmEsIFB1ZXJ0byBSaWNvIixlYXJ0aHF1
+YWtlLDEuNywzLjkzLDAuMDYsMTMscmV2aWV3ZWQscHIscHIKMjAyNi0xMS0xMFQwODozNDowNy4x
+MzFaLC0wLjQ5MjgsMTMyLjg1OSwzNSw1LG1iLDQxLDQ1LDEyLjM4OSwwLjgxLHVzLHVzNzAwMHR4
+OXosMjAyNi0xMS0xMFQwODo1MzoyMS4wNDBaLCI1OCBrbSBORSBvZiBGZWYsIEluZG9uZXNpYSIs
+ZWFydGhxdWFrZSw4Ljc2LDEuOTE5LDAuMDk4LDMzLHJldmlld2VkLHVzLHVzCjIwMjYtMTEtMTBU
+MDc6NDI6NTIuNzEwWiw0NS4yNjc2NjY2NjY2NjcsLTExNy4wMjAzMzMzMzMzMywyLjUyLDQuMjks
+bWwsMTksOTMsMC4yNDU2LDAuNDIsdXcsdXc3MTQxMzY5ODEsMjAyNi0xMS0xMFQxMzowMDoyNy40
+NDNaLCIxOSBrbSBFU0Ugb2YgSm9zZXBoLCBPcmVnb24iLGVhcnRocXVha2UsMC42OSwyLjI4LDAu
+MTQ4NjAwOTczODQyODMsOCxyZXZpZXdlZCx1dyx1dwoyMDI2LTExLTA5VDIwOjI2OjM2LjUyN1os
+MjguNzQxLC05OS4yOCw2LjYwMjgsMi42LG1sLDI1LDYyLDAuMSwwLjQsdHgsdHgyMDI2d2NoZnB4
+LDIwMjYtMTEtMTBUMDg6MjE6MDkuNTIyWiwiMTEga20gV05XIG9mIEhpbGx0b3AsIFRleGFzIixl
+YXJ0aHF1YWtlLDIuMjU4MDI5NDYxODEsMS4xMjU1NTU1NjU3MTUsMC4yLDE1LHJldmlld2VkLHR4
+LHR4Cg==
+
+--===============3539404819685449441==--
