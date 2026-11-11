@@ -1,0 +1,74 @@
+Subject: 10 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Wed, 11 Nov 2026 19:26:03 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6597462568036731496=="
+
+--===============6597462568036731496==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+10 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-11 13:37 UTC).
+
+time                      mag  place
+2026-11-11T19:08:19.738Z  3.1  128 km SSE of Old Harbor, Alaska
+2026-11-11T18:41:56.682Z  3.9  34 km ESE of Vallenar, Chile
+2026-11-11T17:38:22.582Z  5.1  80 km W of Panguna, Papua New Guinea
+2026-11-11T16:44:33.750Z  2.6  15 km E of Pearsall, Texas
+2026-11-11T16:27:06.604Z  2.5  28 km SSE of Denali National Park, Alaska
+2026-11-11T15:39:25.949Z  5.1  South Sandwich Islands region
+2026-11-11T14:53:45.518Z  2.5  56 km S of Whites City, New Mexico
+2026-11-11T13:48:08.117Z  2.8  77 km W of Arctic Village, Alaska
+2026-11-11T12:45:06.171Z  4.5  62 km NNE of Port-Olry, Vanuatu
+2026-11-11T10:57:37.101Z  4.6  64 km NW of Port-Vila, Vanuatu
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============6597462568036731496==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMTFU
+MTk6MDg6MTkuNzM4Wiw1Ni4xMzYsLTE1Mi40ODksMjAuMSwzLjEsbWwsNTIsMjQwLDEsMC42LGFr
+LGFrYTIwMjZ3amxlamMsMjAyNi0xMS0xMVQxOToxMTozNS45NDdaLCIxMjgga20gU1NFIG9mIE9s
+ZCBIYXJib3IsIEFsYXNrYSIsZWFydGhxdWFrZSwxNi4yLDExLjE2NzgsMC4yLDI1LGF1dG9tYXRp
+YyxhayxhawoyMDI2LTExLTExVDE4OjQxOjU2LjY4MlosLTI4LjY0MTEsLTcwLjQxOTQsMTEzLjIz
+NSwzLjksbWIsMzYsMTE2LDAuNDQzLDEuMDEsdXMsdXM3MDAwdHhtaSwyMDI2LTExLTExVDE5OjIw
+OjA4LjA0MFosIjM0IGttIEVTRSBvZiBWYWxsZW5hciwgQ2hpbGUiLGVhcnRocXVha2UsNS42OCw0
+LjQ3NiwwLjUxNSwxLHJldmlld2VkLHVzLHVzCjIwMjYtMTEtMTFUMTc6Mzg6MjIuNTgyWiwtNi4z
+Mjg4LDE1NC43NjEyLDU4LjgyMiw1LjEsbXd3LDE2MSwyMSwzLjM0NiwwLjc1LHVzLHVzNzAwMHR4
+bTgsMjAyNi0xMS0xMVQxODoyNDozNC4wNDBaLCI4MCBrbSBXIG9mIFBhbmd1bmEsIFBhcHVhIE5l
+dyBHdWluZWEiLGVhcnRocXVha2UsMTMuMDMsOC4zMzcsMC4wODksMTIscmV2aWV3ZWQsdXMsdXMK
+MjAyNi0xMS0xMVQxNjo0NDozMy43NTBaLDI4Ljg3LC05OC45NDMsOC40NDUxLDIuNixtbCwyMSw3
+NCwwLjEsMC4zLHR4LHR4MjAyNndmcmliYiwyMDI2LTExLTExVDE3OjM2OjU1LjMxMFosIjE1IGtt
+IEUgb2YgUGVhcnNhbGwsIFRleGFzIixlYXJ0aHF1YWtlLDEuOTIyMjUwNTE2MjI3OCwwLjk5MTYy
+ODA4NTQ5MDk2LDAuMSwxOCxyZXZpZXdlZCx0eCx0eAoyMDI2LTExLTExVDE2OjI3OjA2LjYwNFos
+NjMuMjk3LC0xNTEuNTQ3LDE3LjMsMi41LG1sLDIzLDgxLDAuMywwLjgsYWssYWthMjAyNndqZnVp
+diwyMDI2LTExLTExVDE2OjI4OjIwLjA0MVosIjI4IGttIFNTRSBvZiBEZW5hbGkgTmF0aW9uYWwg
+UGFyaywgQWxhc2thIixlYXJ0aHF1YWtlLDcsNC42MTQzLDAuMiw1LGF1dG9tYXRpYyxhayxhawoy
+MDI2LTExLTExVDE1OjM5OjI1Ljk0OVosLTU2LjAyNDcsLTI3LjczNjYsMTA0LjY2LDUuMSxtYiwy
+OSwxMDIsNS4zMTIsMC42OSx1cyx1czcwMDB0eGpnLDIwMjYtMTEtMTFUMTU6NTc6NDEuMDQwWixT
+b3V0aCBTYW5kd2ljaCBJc2xhbmRzIHJlZ2lvbixlYXJ0aHF1YWtlLDEzLDguMjg2LDAuMTA2LDMz
+LHJldmlld2VkLHVzLHVzCjIwMjYtMTEtMTFUMTQ6NTM6NDUuNTE4WiwzMS42NzEsLTEwNC4zMzMs
+Ni42MTI1LDIuNSxtbCw0Miw4NSwwLjEsMC4yLHR4LHR4MjAyNndmbnFoeCwyMDI2LTExLTExVDE2
+OjAzOjU5LjA0MFosIjU2IGttIFMgb2YgV2hpdGVzIENpdHksIE5ldyBNZXhpY28iLGVhcnRocXVh
+a2UsMC42OTIzNzM1NTYxNzYzNSwwLjc0MDc4OTcwMTk2NjM0LDAuMSwzMixyZXZpZXdlZCx0eCx0
+eAoyMDI2LTExLTExVDEzOjQ4OjA4LjExN1osNjguMDUyLC0xNDcuMzksNSwyLjgsbWwsMzgsNjMs
+MC43LDAuOCxhayxha2EyMDI2d2phbW1zLDIwMjYtMTEtMTFUMTM6NTI6MDcuMDg1WiwiNzcga20g
+VyBvZiBBcmN0aWMgVmlsbGFnZSwgQWxhc2thIixlYXJ0aHF1YWtlLDMuNiwsMC4yLDIwLGF1dG9t
+YXRpYyxhayxhawoyMDI2LTExLTExVDEyOjQ1OjA2LjE3MVosLTE0LjUwMjksMTY3LjI1ODYsMTQ5
+LjQ0NCw0LjUsbWIsNTMsMTI5LDYuNjQ5LDAuODYsdXMsdXM3MDAwdHhpeiwyMDI2LTExLTExVDE0
+OjIyOjA2LjA0MFosIjYyIGttIE5ORSBvZiBQb3J0LU9scnksIFZhbnVhdHUiLGVhcnRocXVha2Us
+MTEuOTEsOC4wMjgsMC4wODEsNDUscmV2aWV3ZWQsdXMsdXMKMjAyNi0xMS0xMVQxMDo1NzozNy4x
+MDFaLC0xNy4yNjE1LDE2Ny45NjcxLDQyLjY5Niw0LjYsbWIsMjQsMTM5LDQuNzc5LDAuNTksdXMs
+dXM3MDAwdHhpbCwyMDI2LTExLTExVDE0OjA5OjQxLjA0MFosIjY0IGttIE5XIG9mIFBvcnQtVmls
+YSwgVmFudWF0dSIsZWFydGhxdWFrZSwxMi4yOCw2Ljc2MiwwLjEyOSwxOCxyZXZpZXdlZCx1cyx1
+cwo=
+
+--===============6597462568036731496==--
