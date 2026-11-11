@@ -1,0 +1,53 @@
+Subject: 5 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Wed, 11 Nov 2026 01:29:29 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6343597502975945580=="
+
+--===============6343597502975945580==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+5 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-10 19:23 UTC).
+
+time                      mag   place
+2026-11-11T01:01:21.525Z  4.2   51 km ENE of Petropavlovsk-Kamchatsky, Russia
+2026-11-10T19:54:18.279Z  4.9   207 km NW of Port-Olry, Vanuatu
+2026-11-10T12:41:01.300Z  2.65  7 km NNE of Puako, Hawaii
+2026-11-10T09:39:18.640Z  2.91  57 km SSW of Mākena, Hawaii
+2026-11-10T09:37:02.490Z  2.63  56 km S of Mākena, Hawaii
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============6343597502975945580==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMTFU
+MDE6MDE6MjEuNTI1Wiw1My4yOTUyLDE1OS4yOTY0LDkyLjE0Niw0LjIsbWIsMjgsMTY5LDAuOTc5
+LDAuNjUsdXMsdXM3MDAwdHhmeCwyMDI2LTExLTExVDAxOjIwOjEzLjA0MFosIjUxIGttIEVORSBv
+ZiBQZXRyb3BhdmxvdnNrLUthbWNoYXRza3ksIFJ1c3NpYSIsZWFydGhxdWFrZSwxNS4wNCwxMC45
+ODEsMC4xMTMsMjIscmV2aWV3ZWQsdXMsdXMKMjAyNi0xMS0xMFQxOTo1NDoxOC4yNzlaLC0xMy45
+MzQ1LDE2NS41MTY2LDExLjcwNSw0LjksbXd3LDcyLDUyLDYuNjgzLDAuNzMsdXMsdXM3MDAwdHhl
+YSwyMDI2LTExLTEwVDIwOjEyOjUyLjA0MFosIjIwNyBrbSBOVyBvZiBQb3J0LU9scnksIFZhbnVh
+dHUiLGVhcnRocXVha2UsOS41Myw0LjczNCwwLjEwMyw5LHJldmlld2VkLHVzLHVzCjIwMjYtMTEt
+MTBUMTI6NDE6MDEuMzAwWiwyMC4wMjkxNjY2NjY2NjcsLTE1NS44MTE2NjY2NjY2Nyw0LjQ5LDIu
+NjUsbWwsMzYsMTIzLDAuMTAwOSwwLjI4LGh2LGh2NzUwNjkxMDIsMjAyNi0xMS0xMFQyMzo1OTow
+OS44MzZaLCI3IGttIE5ORSBvZiBQdWFrbywgSGF3YWlpIixlYXJ0aHF1YWtlLDAuNTUsMC42Myww
+LjIxNjY2NTE2NzkyNDIxLDEzLHJldmlld2VkLGh2LGh2CjIwMjYtMTEtMTBUMDk6Mzk6MTguNjQw
+WiwyMC4xNjM2NjY2NjY2NjcsLTE1Ni42MzIxNjY2NjY2NywzLjE4LDIuOTEsbWwsNDksMTc0LDAu
+Njg3NywwLjIzLGh2LGh2NzUwNjkwMzIsMjAyNi0xMS0xMFQxOTo1OToyMS4yMzBaLCI1NyBrbSBT
+U1cgb2YgTcSBa2VuYSwgSGF3YWlpIixlYXJ0aHF1YWtlLDAuODYsMC44NiwwLjE0OTI2NzA4Nzgw
+ODY1LDE1LHJldmlld2VkLGh2LGh2CjIwMjYtMTEtMTBUMDk6Mzc6MDIuNDkwWiwyMC4xNDkzMzMz
+MzMzMzMsLTE1Ni41NDYzMzMzMzMzMywxLjI0LDIuNjMsbWwsMzAsMjQxLDAuNjA3OCwwLjE4LGh2
+LGh2NzUwNjkwMjcsMjAyNi0xMS0xMFQyMDoxNzoyMS42NzBaLCI1NiBrbSBTIG9mIE3EgWtlbmEs
+IEhhd2FpaSIsZWFydGhxdWFrZSwxLjE0LDAuNTIsMC4yOTE1MjUzMjc5Mjg4Nyw3LHJldmlld2Vk
+LGh2LGh2Cg==
+
+--===============6343597502975945580==--
