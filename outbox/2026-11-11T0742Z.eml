@@ -1,0 +1,65 @@
+Subject: 8 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Wed, 11 Nov 2026 07:42:28 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8451262303582237585=="
+
+--===============8451262303582237585==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+8 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-11 01:29 UTC).
+
+time                      mag   place
+2026-11-11T07:38:46.042Z  3.7   117 km SE of Port Graham, Alaska
+2026-11-11T06:21:45.383Z  5.1   Balleny Islands region
+2026-11-11T05:26:28.222Z  5     152 km SE of Kuril’sk, Russia
+2026-11-11T04:20:59.883Z  4.3   70 km SW of Nikolski, Alaska
+2026-11-11T03:56:52.372Z  4.6   130 km ENE of Hasaki, Japan
+2026-11-11T02:40:23.300Z  2.87  47 km NNW of San Antonio, Puerto Rico
+2026-11-11T01:45:27.859Z  4.7   130 km W of Tofino, Canada
+2026-11-11T01:41:40.180Z  3.09  53 km NNW of Culebra, Puerto Rico
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============8451262303582237585==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMTFU
+MDc6Mzg6NDYuMDQyWiw1OC41MzcsLTE1MC41MzcsMzIuNywzLjcsbWwsMTg0LDEzNSwxLDEuNCxh
+ayxha2EyMDI2d2lvZW50LDIwMjYtMTEtMTFUMDc6NDE6MjMuNDU0WiwiMTE3IGttIFNFIG9mIFBv
+cnQgR3JhaGFtLCBBbGFza2EiLGVhcnRocXVha2UsMyw1LjQzNiwwLjIsNTgsYXV0b21hdGljLGFr
+LGFrCjIwMjYtMTEtMTFUMDY6MjE6NDUuMzgzWiwtNjIuNDI4NCwxNTUuMDIwNiwxMCw1LjEsbXd3
+LDIwLDEzNiwxNS4zMjIsMC41NCx1cyx1czcwMDB0eGhpLDIwMjYtMTEtMTFUMDY6Mzg6NTMuMDQw
+WixCYWxsZW55IElzbGFuZHMgcmVnaW9uLGVhcnRocXVha2UsMTUuNjksMS45NzIsMC4wOTgsMTAs
+cmV2aWV3ZWQsdXMsdXMKMjAyNi0xMS0xMVQwNToyNjoyOC4yMjJaLDQ0LjM5MTUsMTQ5LjQwNjMs
+MzAuMzM4LDUsbXd3LDYwLDEzNSw0LjkwMiwwLjksdXMsdXM3MDAwdHhndiwyMDI2LTExLTExVDA1
+OjQyOjUyLjA0MFosIjE1MiBrbSBTRSBvZiBLdXJpbOKAmXNrLCBSdXNzaWEiLGVhcnRocXVha2Us
+MTAuOTUsNS43ODIsMC4wOTgsMTAscmV2aWV3ZWQsdXMsdXMKMjAyNi0xMS0xMVQwNDoyMDo1OS44
+ODNaLDUyLjU1MjUsLTE2OS42ODc4LDQyLjIwNiw0LjMsbWIsNDAsMTcyLDAuNjU4LDAuNTcsdXMs
+dXM3MDAwdHhnaSwyMDI2LTExLTExVDA0OjM3OjUxLjA0MFosIjcwIGttIFNXIG9mIE5pa29sc2tp
+LCBBbGFza2EiLGVhcnRocXVha2UsMTAuMDksMTAuOTI2LDAuMDg1LDM5LHJldmlld2VkLHVzLHVz
+CjIwMjYtMTEtMTFUMDM6NTY6NTIuMzcyWiwzNi4xNDkyLDE0Mi4xODUsMTAsNC42LG1iLDIzLDE4
+MSwzLjIzMywxLjA1LHVzLHVzNzAwMHR4Z2csMjAyNi0xMS0xMVQwNDoxOToyNi4wNDBaLCIxMzAg
+a20gRU5FIG9mIEhhc2FraSwgSmFwYW4iLGVhcnRocXVha2UsOS4wOCwxLjgzNSwwLjE3MywxMSxy
+ZXZpZXdlZCx1cyx1cwoyMDI2LTExLTExVDAyOjQwOjIzLjMwMFosMTguODc3MzMzMzMzMzMzLC02
+Ny4yOTgxNjY2NjY2NjcsOC40OCwyLjg3LG1kLDEwLDMwNiwwLjQ0NDUsMC4xNixwcixwcjcxNTM5
+MDI4LDIwMjYtMTEtMTFUMDM6MTE6NTkuNjUwWiwiNDcga20gTk5XIG9mIFNhbiBBbnRvbmlvLCBQ
+dWVydG8gUmljbyIsZWFydGhxdWFrZSwwLjc2LDAuNjIsMC4wMTMyNzE3NjU1MjMwNzYsNSxyZXZp
+ZXdlZCxwcixwcgoyMDI2LTExLTExVDAxOjQ1OjI3Ljg1OVosNDkuMDg3NiwtMTI3LjY5MTIsMTAs
+NC43LG1iLDE4LDEwNywxLjQ0OSwwLjc2LHVzLHVzNzAwMHR4ZnosMjAyNi0xMS0xMVQwNTozMDo1
+MS4yNzhaLCIxMzAga20gVyBvZiBUb2Zpbm8sIENhbmFkYSIsZWFydGhxdWFrZSw2LjA1LDEuNTU1
+LDAuMDM2LDIzOSxyZXZpZXdlZCx1cyx1cwoyMDI2LTExLTExVDAxOjQxOjQwLjE4MFosMTguNzc2
+NjY2NjY2NjY3LC02NS40MjA4MzMzMzMzMzMsNDkuNDYsMy4wOSxtZCwxNSwyMTQsMC40ODQ4LDAu
+MTgscHIscHI3MTUzOTAxOCwyMDI2LTExLTExVDAyOjMzOjExLjI2MFosIjUzIGttIE5OVyBvZiBD
+dWxlYnJhLCBQdWVydG8gUmljbyIsZWFydGhxdWFrZSwxLjg4LDIuODYsMC4wNTk0ODYzNDUxNTEz
+NDUsMTQscmV2aWV3ZWQscHIscHIK
+
+--===============8451262303582237585==--
