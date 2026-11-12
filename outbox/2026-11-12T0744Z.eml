@@ -1,0 +1,63 @@
+Subject: 8 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Thu, 12 Nov 2026 07:44:20 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0211322246007177465=="
+
+--===============0211322246007177465==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+8 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-12 01:40 UTC).
+
+time                      mag  place
+2026-11-12T06:14:36.292Z  2.5  60 km NW of Ninilchik, Alaska
+2026-11-12T06:11:35.248Z  2.5  21 km NNE of Sterling, Alaska
+2026-11-12T06:04:56.755Z  2.8  95 km SSW of Kaktovik, Alaska
+2026-11-12T05:48:28.468Z  3.6  102 km SSW of Kaktovik, Alaska
+2026-11-12T04:08:47.361Z  2.5  51 km W of Akhiok, Alaska
+2026-11-12T04:07:32.379Z  4.8  155 km E of Noda, Japan
+2026-11-12T03:45:56.644Z  5.4  South Sandwich Islands region
+2026-11-12T03:43:51.447Z  3.1  11 km SSE of Kasilof, Alaska
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============0211322246007177465==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMTJU
+MDY6MTQ6MzYuMjkyWiw2MC40MDQsLTE1Mi40OTMsMTAzLjQsMi41LG1sLDEwOSw1MCwwLjEsMC42
+LGFrLGFrYTIwMjZ3a2hqeGksMjAyNi0xMS0xMlQwNzoxNToyMC4wNDBaLCI2MCBrbSBOVyBvZiBO
+aW5pbGNoaWssIEFsYXNrYSIsZWFydGhxdWFrZSwyLjgsMS45MzExLDAuMyw2MSxhdXRvbWF0aWMs
+YWssYWsKMjAyNi0xMS0xMlQwNjoxMTozNS4yNDhaLDYwLjcxNCwtMTUwLjU5OSwwLjIsMi41LG1s
+LDU2LDQ4LDAuNiwwLjgsYWssYWthMjAyNndraGhiciwyMDI2LTExLTEyVDA2OjQzOjQ3LjIyMlos
+IjIxIGttIE5ORSBvZiBTdGVybGluZywgQWxhc2thIixlYXJ0aHF1YWtlLDIuMSwxLjcyMTYsMC4x
+LDM0LGF1dG9tYXRpYyxhayxhawoyMDI2LTExLTEyVDA2OjA0OjU2Ljc1NVosNjkuMzYzLC0xNDQu
+NzM2LDcuNSwyLjgsbWwsNDIsNjgsMC40LDAuNyxhayxha2EyMDI2d2toYmxrLDIwMjYtMTEtMTJU
+MDc6MTE6MjkuMDQwWiwiOTUga20gU1NXIG9mIEtha3RvdmlrLCBBbGFza2EiLGVhcnRocXVha2Us
+NS4xLDQuOTQzMywwLjMsMTQsYXV0b21hdGljLGFrLGFrCjIwMjYtMTEtMTJUMDU6NDg6MjguNDY4
+Wiw2OS4zNDMsLTE0NC45OCw1LDMuNixtbCw5Nyw1NSwwLjUsMS4zLGFrLGFrYTIwMjZ3a2duZWUs
+MjAyNi0xMS0xMlQwNzowNTo0OS4wNDBaLCIxMDIga20gU1NXIG9mIEtha3RvdmlrLCBBbGFza2Ei
+LGVhcnRocXVha2UsNC40LCwwLjEsMzYsYXV0b21hdGljLGFrLGFrCjIwMjYtMTEtMTJUMDQ6MDg6
+NDcuMzYxWiw1Ni45NTIsLTE1NS4wMjQsNSwyLjUsbWwsMzMsNzAsMC42LDAuNyxhayxha2EyMDI2
+d2tkZWp1LDIwMjYtMTEtMTJUMDQ6MTI6NTUuNTcxWiwiNTEga20gVyBvZiBBa2hpb2ssIEFsYXNr
+YSIsZWFydGhxdWFrZSw0LCwwLjIsMjQsYXV0b21hdGljLGFrLGFrCjIwMjYtMTEtMTJUMDQ6MDc6
+MzIuMzc5Wiw0MC4zNTkzLDE0My42MTE1LDMzLjAzOSw0LjgsbWIsNDYsMTQyLDEuNjg5LDAuNjIs
+dXMsdXM3MDAwdHhxeCwyMDI2LTExLTEyVDA0OjI4OjIxLjA0MFosIjE1NSBrbSBFIG9mIE5vZGEs
+IEphcGFuIixlYXJ0aHF1YWtlLDcuMzQsNS44MzYsMC4xMDIsMzAscmV2aWV3ZWQsdXMsdXMKMjAy
+Ni0xMS0xMlQwMzo0NTo1Ni42NDRaLC01OS4wMzI2LC0yNi4wMjg4LDEyMS41NTcsNS40LG1iLDY3
+LDY5LDcuNDcxLDAuNjgsdXMsdXM3MDAwdHhxciwyMDI2LTExLTEyVDA1OjUwOjU0LjUyMlosU291
+dGggU2FuZHdpY2ggSXNsYW5kcyByZWdpb24sZWFydGhxdWFrZSwxMS4yNSw2LjkyMiwwLjA1Miwx
+MjQscmV2aWV3ZWQsdXMsdXMKMjAyNi0xMS0xMlQwMzo0Mzo1MS40NDdaLDYwLjI0NiwtMTUxLjE3
+MSw2MS4yLDMuMSxtbCwxNDMsNTgsMC41LDAuOSxhayxha2EyMDI2d2tjamN6LDIwMjYtMTEtMTJU
+MDQ6MDE6NTAuMjMyWiwiMTEga20gU1NFIG9mIEthc2lsb2YsIEFsYXNrYSIsZWFydGhxdWFrZSwx
+LjksMi40NjYxLDAuMiwxMDEsYXV0b21hdGljLGFrLGFrCg==
+
+--===============0211322246007177465==--
