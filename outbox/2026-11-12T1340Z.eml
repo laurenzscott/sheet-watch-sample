@@ -1,0 +1,51 @@
+Subject: 5 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Thu, 12 Nov 2026 13:40:09 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6749061239283852168=="
+
+--===============6749061239283852168==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+5 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-12 07:44 UTC).
+
+time                      mag  place
+2026-11-12T13:10:38.733Z  2.5  24 km ESE of Kasilof, Alaska
+2026-11-12T10:17:31.050Z  2.7  119 km ESE of Cordova, Alaska
+2026-11-12T09:20:18.720Z  3.2  14 km E of Pearsall, Texas
+2026-11-12T08:26:40.140Z  4.1  215 km WSW of Port McNeill, Canada
+2026-11-12T08:17:28.440Z  4.5  off the coast of Oregon
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============6749061239283852168==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMTJU
+MTM6MTA6MzguNzMzWiw2MC4yNDYsLTE1MC44OCw2Ny41LDIuNSxtbCw4OSw3MSwwLjQsMC42LGFr
+LGFrYTIwMjZ3a3Znb2QsMjAyNi0xMS0xMlQxMzoxMzoyNi4wNjZaLCIyNCBrbSBFU0Ugb2YgS2Fz
+aWxvZiwgQWxhc2thIixlYXJ0aHF1YWtlLDIuMywyLjU0NDUsMC4yLDU0LGF1dG9tYXRpYyxhayxh
+awoyMDI2LTExLTEyVDEwOjE3OjMxLjA1MFosNjAuMzI4LC0xNDMuNjM5LDUsMi43LG1sLDQ1LDEy
+NSwwLjIsMC44LGFrLGFrYTIwMjZ3a3BtbGgsMjAyNi0xMS0xMlQxMDoxOTozNy42NjVaLCIxMTkg
+a20gRVNFIG9mIENvcmRvdmEsIEFsYXNrYSIsZWFydGhxdWFrZSw0LjQsLDAuMiwyMSxhdXRvbWF0
+aWMsYWssYWsKMjAyNi0xMS0xMlQwOToyMDoxOC43MjBaLDI4Ljg3NywtOTguOTQzLDcuODY3Niwz
+LjIsbWwsMjEsODcsMC4xLDAuMix0eCx0eDIwMjZ3Z3lpZHYsMjAyNi0xMS0xMlQwOTozMjo1OC42
+MDlaLCIxNCBrbSBFIG9mIFBlYXJzYWxsLCBUZXhhcyIsZWFydGhxdWFrZSwxLjE4MzE3OTk4ODk0
+NDEsMC43MDMwNjY2MjY0ODYzNywwLjEsMTIscmV2aWV3ZWQsdHgsdHgKMjAyNi0xMS0xMlQwODoy
+Njo0MC4xNDBaLDUwLjIyMDYsLTEzMC4wNjU2LDEwLDQuMSxtYiwyNCwxODEsMS4zMDUsMC42Nyx1
+cyx1czcwMDB0eHJtLDIwMjYtMTEtMTJUMDg6NDQ6MTMuMDQwWiwiMjE1IGttIFdTVyBvZiBQb3J0
+IE1jTmVpbGwsIENhbmFkYSIsZWFydGhxdWFrZSw4LjMsMS45OSwwLjA2Niw2NCxyZXZpZXdlZCx1
+cyx1cwoyMDI2LTExLTEyVDA4OjE3OjI4LjQ0MFosNDQuNDUzOSwtMTI5LjYyMDUsMTAsNC41LG1i
+LDUxLDE5NywzLjAxNywwLjYsdXMsdXM3MDAwdHhyaywyMDI2LTExLTEyVDEyOjI3OjQxLjM1NVos
+b2ZmIHRoZSBjb2FzdCBvZiBPcmVnb24sZWFydGhxdWFrZSwxMS4yNiwxLjk5NSwwLjA1Nyw4OSxy
+ZXZpZXdlZCx1cyx1cwo=
+
+--===============6749061239283852168==--
