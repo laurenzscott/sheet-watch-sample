@@ -1,0 +1,60 @@
+Subject: 7 new rows in USGS earthquakes M2.5+, last 24 hours
+To: you@example.com
+From: sheet-watch@example.com
+Date: Sat, 14 Nov 2026 22:38:46 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0537759752159229778=="
+
+--===============0537759752159229778==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+7 new rows in USGS earthquakes M2.5+, last 24 hours since the last check (2026-11-14 18:20 UTC).
+
+time                      mag   place
+2026-11-14T22:00:18.405Z  3.4   37 km ESE of Chenega, Alaska
+2026-11-14T21:24:20.159Z  4.5   25 km N of Ruteng, Indonesia
+2026-11-14T20:40:25.910Z  2.87  14 km N of Quebradillas, Puerto Rico
+2026-11-14T19:51:04.046Z  2.93  70 km E of Cedarville, California
+2026-11-14T17:51:29.113Z  4.3   29 km NE of Dannevirke, New Zealand
+2026-11-14T13:25:58.258Z  3.9   103 km SSW of Nikolski, Alaska
+2026-11-14T06:11:38.842Z  3.2   188 km SSE of Akhiok, Alaska
+
+The full rows are attached as new-rows.csv.
+Every run, with or without new rows, is listed in data/run-log.csv.
+
+--===============0537759752159229778==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new-rows.csv"
+MIME-Version: 1.0
+
+dGltZSxsYXRpdHVkZSxsb25naXR1ZGUsZGVwdGgsbWFnLG1hZ1R5cGUsbnN0LGdhcCxkbWluLHJt
+cyxuZXQsaWQsdXBkYXRlZCxwbGFjZSx0eXBlLGhvcml6b250YWxFcnJvcixkZXB0aEVycm9yLG1h
+Z0Vycm9yLG1hZ05zdCxzdGF0dXMsbG9jYXRpb25Tb3VyY2UsbWFnU291cmNlCjIwMjYtMTEtMTRU
+MjI6MDA6MTguNDA1Wiw1OS45NjgsLTE0Ny4zNzYsMC44LDMuNCxtbCwxNDYsMTA4LDAuNiwxLjIs
+YWssYWthMjAyNndwZXl6ZCwyMDI2LTExLTE0VDIyOjEyOjE3Ljk3MFosIjM3IGttIEVTRSBvZiBD
+aGVuZWdhLCBBbGFza2EiLGVhcnRocXVha2UsMi4yLDEuNjYyMywwLjEsODMsYXV0b21hdGljLGFr
+LGFrCjIwMjYtMTEtMTRUMjE6MjQ6MjAuMTU5WiwtOC4zODIzLDEyMC40NDMsMTAsNC41LG1iLDI3
+LDE0NCwzLjQxNiwwLjg3LHVzLHVzNzAwMHR5YW4sMjAyNi0xMS0xNFQyMjoyNTozNy4wNDBaLCIy
+NSBrbSBOIG9mIFJ1dGVuZywgSW5kb25lc2lhIixlYXJ0aHF1YWtlLDEyLjg2LDEuOTIsMC4xMzUs
+MTYscmV2aWV3ZWQsdXMsdXMKMjAyNi0xMS0xNFQyMDo0MDoyNS45MTBaLDE4LjYwMTgzMzMzMzMz
+MywtNjYuOTM0LDE5LjYzLDIuODcsbWQsMTgsMjI4LDAuMjE0NywwLjIscHIscHI3MTUzOTI3Mywy
+MDI2LTExLTE0VDIxOjEzOjU1Ljk5MFosIjE0IGttIE4gb2YgUXVlYnJhZGlsbGFzLCBQdWVydG8g
+UmljbyIsZWFydGhxdWFrZSwxLjA2LDEuMTEsMC4wNzg2MTkzNDU5MjgxNDEsOSxyZXZpZXdlZCxw
+cixwcgoyMDI2LTExLTE0VDE5OjUxOjA0LjA0NlosNDEuNTUzOCwtMTE5LjMyOTUsMC4wMDA4LDIu
+OTMsbWwsMTIsMzA2LDEuODU5LDAuMzYxOCxubixubjAwOTI2OTc5LDIwMjYtMTEtMTRUMTk6NTQ6
+MjEuMDc0WiwiNzAga20gRSBvZiBDZWRhcnZpbGxlLCBDYWxpZm9ybmlhIixlYXJ0aHF1YWtlLCww
+LjIxOTYsMC4yNCw1LGF1dG9tYXRpYyxubixubgoyMDI2LTExLTE0VDE3OjUxOjI5LjExM1osLTQw
+LjAzNDUsMTc2LjM2MjMsMjcuODYzLDQuMyxtYiwzOCw5MCwwLjMwOSwwLjgxLHVzLHVzNzAwMHR5
+OXgsMjAyNi0xMS0xNFQyMjoyNjo1OC41ODRaLCIyOSBrbSBORSBvZiBEYW5uZXZpcmtlLCBOZXcg
+WmVhbGFuZCIsZWFydGhxdWFrZSwzLjk1LDYuMjE2LDAuMTU0LDEyLHJldmlld2VkLHVzLHVzCjIw
+MjYtMTEtMTRUMTM6MjU6NTguMjU4Wiw1Mi4wNDEsLTE2OS4yMzksMTAsMy45LG1sLDM4LDIyNCww
+LjgsMC44LGFrLGFrYTIwMjZ3b251eHcsMjAyNi0xMS0xNFQyMDoxNjo1My40MzVaLCIxMDMga20g
+U1NXIG9mIE5pa29sc2tpLCBBbGFza2EiLGVhcnRocXVha2UsNywzLjIyNzIsMC4xLDI2LHJldmll
+d2VkLGFrLGFrCjIwMjYtMTEtMTRUMDY6MTE6MzguODQyWiw1NS4zMTYsLTE1My4zMzUsMTMwLjgs
+My4yLG1sLDE5LDMyNSwyLjksMC40LGFrLGFrYTIwMjZ3bnppc2IsMjAyNi0xMS0xNFQyMDowOTox
+MC4zNDNaLCIxODgga20gU1NFIG9mIEFraGlvaywgQWxhc2thIixlYXJ0aHF1YWtlLDEwMS4xLDU5
+LjM5MDYsMC4xLDEzLGF1dG9tYXRpYyxhayxhawo=
+
+--===============0537759752159229778==--
