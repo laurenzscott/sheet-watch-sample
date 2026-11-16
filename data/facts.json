@@ -1,10 +1,10 @@
 {
  "source": "USGS earthquakes M2.5+, last 24 hours",
  "first_run_utc": "2026-10-18 21:01 UTC",
- "last_run_utc": "2026-11-16 06:52 UTC",
- "runs": 109,
- "runs_ok": 109,
+ "last_run_utc": "2026-11-16 22:22 UTC",
+ "runs": 110,
+ "runs_ok": 110,
  "runs_needing_a_check": 0,
- "new_rows_reported": 1283,
- "emails": 108
+ "new_rows_reported": 1304,
+ "emails": 109
 }
