@@ -131,3 +131,4 @@ run_at_utc,status,rows_in_source,new_rows,email,note
 2026-11-26 21:45 UTC,ok,38,19,written,outbox/2026-11-26T2145Z.eml
 2026-11-27 08:51 UTC,ok,28,12,written,outbox/2026-11-27T0851Z.eml
 2026-11-27 21:29 UTC,ok,28,16,written,outbox/2026-11-27T2129Z.eml
+2026-11-28 08:09 UTC,ok,42,27,written,outbox/2026-11-28T0809Z.eml
